@@ -1,1 +1,1 @@
-# lamagicx.eu
+# lamagicx.eu[lamagicx.eu]
