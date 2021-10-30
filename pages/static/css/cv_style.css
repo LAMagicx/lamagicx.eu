@@ -5,8 +5,8 @@ body {
     font-family: 'Source Code Pro', monospace;
 }
 #CV {
-    height: 95vh;
-    width: calc(95vh / 1.41);
+    width: 100vw;
+    height: calc(100vw * 1.41);
     margin: auto;
     display: flex;
 }
