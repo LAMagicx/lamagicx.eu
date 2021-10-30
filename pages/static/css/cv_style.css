@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+    padding: auto;
+    font-family: 'Source Code Pro', monospace;
+}
+#CV {
+    height: 95vh;
+    width: calc(95vh / 1.41);
+    margin: auto;
+    display: flex;
+}
+
+#sidebar {
+    height: 100%;
+    width: 30%;
+    background-color: #29352F;
+    display: flex;
+    flex-flow: column nowrap;
+    color: #F7F7F7;
+}
+
+#sidebar > div {
+    margin: 6%;
+    font-size: 16px;
+}
+
+.title {
+    font-size: 1.4rem;
+    margin: 0.2em 0;
+}
+.content {
+    font-size: 0.7em;
+    margin-top: 5%;
+}
+
+#profile {
+    border-radius: 50%;
+    padding: 10% 20% 0 20%;
+    overflow: hidden;
+}
+
+#skills {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.skill{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.skill p {
+    margin: 0;
+}
+
+.bar {
+    height: 1em;
+    width: 50%;
+    border-radius: 0.5em;
+    background-color: #121714;
+}
+
+.bar div {
+    height: 100%;
+    border-radius: 0.4em;
+    background-color: #50685C;
+}
+
+.bar .p10 {width: 100%;}
+.bar .p9 {width: 90%;}
+.bar .p8 {width: 80%;}
+.bar .p7 {width: 70%;}
+.bar .p6 {width: 60%;}
+.bar .p5 {width: 50%;}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sub {
+    content="";
+    background: #EBEBEB;
+    display: block;
+    height: 2px;
+    width: 30%;
+}
+
+
+.sep {
+    content="";
+    background: #666666;
+    opacity: 0.7;
+    display: block;
+    height: 1px;
+    width: auto;
+    margin: 0 6%
+}
+
+#main {
+    height: 100%;
+    width: calc(100% - 30%);
+    background-color: #F7F7F7;
+    display: flex;
+    flex-flow: column nowrap;
+    font-size: 12px;
+    color: #29352F;
+}
+
+#main > div {
+    margin: 0 6%;
+}
+
+#header {
+    display: flex;
+    flex-flow: row nowrap;
+    font-size: 16px;
+    justify-content: space-between;
+    padding: 7% 0;
+}
+
+#name {
+    text-align: left;
+}
+
+#name h1{
+   margin: 3% 0; 
+}
+
+.exp {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-bottom: 14px;
+}
+
+
+.exp *{
+    margin: 0;
+}
+
+.exp h4 {
+}
+
+.location {
+    min-width: 40%;
+}
+
+.description {
+    margin-left: 15px;
+}
+
+.separator {
+    margin-right: 0%;
+}
+
+.separator span {
+    content: "";
+    display: block;
+    background: #29352F;
+    opacity: 0.4;
+}
+
+.dot {
+    width: 0.8em;
+    height: 0.8em;
+    border-radius: 0.5em;
+}
+
+.line {
+    position: relative;
+    width: 0.2em;
+    height: calc(130% - 0.4em - 4px);
+    top: calc(-0.1em + 2px);
+    left: 0.3em;
+
+}
+
+#stuff {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.material-icons {
+    font-size: 1.5em;
+}
+
+.hobby{
+    font-size: 1em;
+    margin: 1px;
+    margin-right: 10px;
+}
