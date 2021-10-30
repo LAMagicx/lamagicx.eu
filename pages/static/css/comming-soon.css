@@ -1,0 +1,113 @@
+body {
+    background: #D9B945;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+    letter-spacing: 6px;
+    word-spacing: 6px;
+}
+
+#main {
+    width: 75vw;
+    height: 90vh;
+    margin: 5vh 0 0 0;
+}
+
+#header {
+    width: 100%;
+    height: 15%;
+    margin-top: 5%;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+}
+
+#eggs {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+}
+
+#footer {
+    width: 100%;
+    height: 20%;
+    text-align:center;
+}
+
+#saucepan {
+    background: #222;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 25%;
+    left: calc(50% - 100px);
+    border-radius: 50%;
+    box-shadow: 0 0 0px 20px #111;
+}
+
+#handle {
+    background: #111;
+    width: 120px;
+    height: 33px;
+    position: relative;
+    top: -35px;
+    left: -70px;
+    transform: rotate(45deg);
+    border-radius: 15px;
+}
+
+.egg {
+    background: #fed;
+    position: relative;
+    width: 90px;
+    height: 70px;
+}
+
+.yolk {
+    background: #f84;
+    position: relative;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+#egg-one {
+    left: 40px;
+    top: 10px;
+    border-radius: 50% 60% 50% 50%;
+}
+#yolk-one {
+    top: 20px;
+    left: 30px;
+}
+
+
+#egg-two {
+    left: 80px;
+    top: 15px;
+    border-radius: 60% 40% 60% 50%;
+}
+#yolk-two {
+    top: 10px;
+    left: 20px;
+}
+
+@media screen and (max-width: 1700px) {
+    body {
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    #header {
+        margin-bottom: 10%;
+    }
+}
