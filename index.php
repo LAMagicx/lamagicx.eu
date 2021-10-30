@@ -14,6 +14,7 @@
     Router::add('sendmail', get_path('views', 'mailtest.php'));
     Router::add('math', get_path('math', 'math.php'));
     Router::add('tree', get_path('tree', 'tree.html'));
+    Router::add('CV', get_path('views', 'cv.html'));
 
     $scan = scandir(get_path('views', 'math/'));
     foreach($scan as $file) {
