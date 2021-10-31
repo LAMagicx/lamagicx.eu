@@ -34,10 +34,34 @@ body {
     margin-top: 5%;
 }
 
+i, .material-icons, .fa {
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+    top: 0.12em;
+}
+
+.fa:before {
+    width: 1.5em;
+    height: 1.5em;
+
+}
+
 #profile {
-    border-radius: 50%;
-    padding: 10% 20% 0 20%;
+    width: 80%;
+    max-height: 17%;
+    position: relative;
     overflow: hidden;
+    border-radius: 50%;
+
+}
+
+img {
+    max-width: 200%;
+    max-height: 200%;
+    margin: 0 auto;
+    height: 122%;
+    width: auto;
 }
 
 #skills {
@@ -76,10 +100,6 @@ body {
 .bar .p6 {width: 60%;}
 .bar .p5 {width: 50%;}
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
 
 .sub {
     content="";
@@ -119,21 +139,22 @@ img {
     flex-flow: row nowrap;
     font-size: 16px;
     justify-content: space-between;
-    padding: 7% 0;
+    padding: 7% 0 0% 0%;
 }
 
 #name {
     text-align: left;
+    padding-top: 1em;
 }
 
 #name h1{
-   margin: 3% 0; 
+   margin: 0% 0; 
 }
 
 .exp {
     display: flex;
     flex-flow: row nowrap;
-    margin-bottom: 14px;
+    margin-bottom: 0px;
 }
 
 
@@ -164,17 +185,19 @@ img {
 }
 
 .dot {
+    position: relative;
     width: 0.8em;
     height: 0.8em;
     border-radius: 0.5em;
+    top: 0.3em;
 }
 
 .line {
     position: relative;
     width: 0.2em;
-    height: calc(130% - 0.4em - 4px);
-    top: calc(-0.1em + 2px);
+    height: 4em;;
     left: 0.3em;
+    top: 0.3em;
 
 }
 
@@ -190,6 +213,11 @@ img {
 
 .hobby{
     font-size: 1em;
-    margin: 1px;
+    margin-top: 0.5em;
     margin-right: 10px;
+}
+
+#stuff i {
+    width: 1em;
+    height: 1em;
 }
