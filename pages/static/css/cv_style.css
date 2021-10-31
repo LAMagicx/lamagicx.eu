@@ -21,7 +21,7 @@ body {
 }
 
 #sidebar > div {
-    margin: 6%;
+    margin: 6% 6% 0% 6%;
     font-size: 16px;
 }
 
@@ -214,10 +214,12 @@ img {
 .hobby{
     font-size: 1em;
     margin-top: 0.5em;
-    margin-right: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 #stuff i {
     width: 1em;
     height: 1em;
+    top: 0.2em;
 }

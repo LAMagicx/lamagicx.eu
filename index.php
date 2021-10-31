@@ -15,6 +15,7 @@
     Router::add('math', get_path('math', 'math.php'));
     Router::add('tree', get_path('tree', 'tree.html'));
     Router::add('CV', get_path('views', 'cv.html'));
+    Router::add('CVF', get_path('views', 'cvf.html'));
 
     $scan = scandir(get_path('views', 'math/'));
     foreach($scan as $file) {
