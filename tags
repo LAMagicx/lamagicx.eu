@@ -1,0 +1,891 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/cytech/Gits/Mine/lamagicx.eu/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/d38b6c00/
+#CV	pages/static/css/cv_style.css	/^#CV {$/;"	i
+#egg-one	pages/static/css/coming-soon.css	/^#egg-one {$/;"	i
+#egg-one	pages/static/css/comming-soon.css	/^#egg-one {$/;"	i
+#egg-two	pages/static/css/coming-soon.css	/^#egg-two {$/;"	i
+#egg-two	pages/static/css/comming-soon.css	/^#egg-two {$/;"	i
+#eggs	pages/static/css/coming-soon.css	/^#eggs {$/;"	i
+#eggs	pages/static/css/comming-soon.css	/^#eggs {$/;"	i
+#footer	pages/static/css/coming-soon.css	/^#footer {$/;"	i
+#footer	pages/static/css/comming-soon.css	/^#footer {$/;"	i
+#handle	pages/static/css/coming-soon.css	/^#handle {$/;"	i
+#handle	pages/static/css/comming-soon.css	/^#handle {$/;"	i
+#header	pages/static/css/coming-soon.css	/^    #header {$/;"	i
+#header	pages/static/css/coming-soon.css	/^#header {$/;"	i
+#header	pages/static/css/comming-soon.css	/^    #header {$/;"	i
+#header	pages/static/css/comming-soon.css	/^#header {$/;"	i
+#header	pages/static/css/cv_style.css	/^#header {$/;"	i
+#main	pages/static/css/coming-soon.css	/^#main {$/;"	i
+#main	pages/static/css/comming-soon.css	/^#main {$/;"	i
+#main	pages/static/css/cv_style.css	/^#main {$/;"	i
+#main > div	pages/static/css/cv_style.css	/^#main > div {$/;"	s
+#name	pages/static/css/cv_style.css	/^#name {$/;"	i
+#name h1	pages/static/css/cv_style.css	/^#name h1{$/;"	s
+#profile	pages/static/css/cv_style.css	/^#profile {$/;"	i
+#saucepan	pages/static/css/coming-soon.css	/^#saucepan {$/;"	i
+#saucepan	pages/static/css/comming-soon.css	/^#saucepan {$/;"	i
+#sidebar	pages/static/css/cv_style.css	/^#sidebar {$/;"	i
+#sidebar > div	pages/static/css/cv_style.css	/^#sidebar > div {$/;"	s
+#skills	pages/static/css/cv_style.css	/^#skills {$/;"	i
+#stuff	pages/static/css/cv_style.css	/^#stuff {$/;"	i
+#stuff i	pages/static/css/cv_style.css	/^#stuff i {$/;"	s
+#yolk-one	pages/static/css/coming-soon.css	/^#yolk-one {$/;"	i
+#yolk-one	pages/static/css/comming-soon.css	/^#yolk-one {$/;"	i
+#yolk-two	pages/static/css/coming-soon.css	/^#yolk-two {$/;"	i
+#yolk-two	pages/static/css/comming-soon.css	/^#yolk-two {$/;"	i
+.bar	pages/static/css/cv_style.css	/^.bar {$/;"	c
+.bar .p10	pages/static/css/cv_style.css	/^.bar .p10 {width: 100%;}$/;"	c
+.bar .p5	pages/static/css/cv_style.css	/^.bar .p5 {width: 50%;}$/;"	c
+.bar .p6	pages/static/css/cv_style.css	/^.bar .p6 {width: 60%;}$/;"	c
+.bar .p7	pages/static/css/cv_style.css	/^.bar .p7 {width: 70%;}$/;"	c
+.bar .p8	pages/static/css/cv_style.css	/^.bar .p8 {width: 80%;}$/;"	c
+.bar .p9	pages/static/css/cv_style.css	/^.bar .p9 {width: 90%;}$/;"	c
+.bar div	pages/static/css/cv_style.css	/^.bar div {$/;"	s
+.content	pages/static/css/cv_style.css	/^.content {$/;"	c
+.description	pages/static/css/cv_style.css	/^.description {$/;"	c
+.dot	pages/static/css/cv_style.css	/^.dot {$/;"	c
+.egg	pages/static/css/coming-soon.css	/^.egg {$/;"	c
+.egg	pages/static/css/comming-soon.css	/^.egg {$/;"	c
+.exp	pages/static/css/cv_style.css	/^.exp {$/;"	c
+.exp *	pages/static/css/cv_style.css	/^.exp *{$/;"	s
+.exp h4	pages/static/css/cv_style.css	/^.exp h4 {$/;"	s
+.fa	pages/static/css/cv_style.css	/^i, .material-icons, .fa {$/;"	c
+.fa:before	pages/static/css/cv_style.css	/^.fa:before {$/;"	c
+.hobby	pages/static/css/cv_style.css	/^.hobby{$/;"	c
+.line	pages/static/css/cv_style.css	/^.line {$/;"	c
+.location	pages/static/css/cv_style.css	/^.location {$/;"	c
+.material-icons	pages/static/css/cv_style.css	/^.material-icons {$/;"	c
+.material-icons	pages/static/css/cv_style.css	/^i, .material-icons, .fa {$/;"	c
+.sep	pages/static/css/cv_style.css	/^.sep {$/;"	c
+.separator	pages/static/css/cv_style.css	/^.separator {$/;"	c
+.separator span	pages/static/css/cv_style.css	/^.separator span {$/;"	s
+.skill	pages/static/css/cv_style.css	/^.skill{$/;"	c
+.skill p	pages/static/css/cv_style.css	/^.skill p {$/;"	s
+.sub	pages/static/css/cv_style.css	/^.sub {$/;"	c
+.title	pages/static/css/cv_style.css	/^.title {$/;"	c
+.yolk	pages/static/css/coming-soon.css	/^.yolk {$/;"	c
+.yolk	pages/static/css/comming-soon.css	/^.yolk {$/;"	c
+0	assets/PHPMailer/composer.json	/^            "@php .\/vendor\/php-parallel-lint\/php-parallel-lint\/parallel-lint . -e php,phps -/;"	s	array:scripts.lint
+0	assets/PHPMailer/composer.json	/^        {$/;"	o	array:authors
+0	assets/PHPMailer/composer.json	/^        {$/;"	o	array:funding
+0	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+0	pages/static/js/math/sticks.json	/^[{\\"p0\\": {\\"x\\": 50,\\"y\\": 50,\\"oldx\\": 47.87883694853664,\\"oldy\\": 36.46819038257285/;"	o
+1	assets/PHPMailer/composer.json	/^        {$/;"	o	array:authors
+1	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+10	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+11	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+12	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+13	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+14	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+15	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+16	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+17	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+18	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+19	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+2	assets/PHPMailer/composer.json	/^        {$/;"	o	array:authors
+2	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+20	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+21	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+22	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+23	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+24	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+25	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+26	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+27	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+3	assets/PHPMailer/composer.json	/^        {$/;"	o	array:authors
+3	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+4	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+5	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+6	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+7	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+8	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+9	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	o
+A Simple Example	assets/PHPMailer/README.md	/^## A Simple Example$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+ADDING	pages/static/js/math/pointysticks.js	/^var ADDING = false;$/;"	v
+About Me	pages/views/cv.html	/^                    <h2 class="title">About Me<\/h2>$/;"	i
+AbstractProvider	assets/PHPMailer/src/OAuth.php	/^use League\\OAuth2\\Client\\Provider\\AbstractProvider;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:League\\OAuth2\\Client\\Provider\\AbstractProvider
+AccessToken	assets/PHPMailer/src/OAuth.php	/^use League\\OAuth2\\Client\\Token\\AccessToken;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:League\\OAuth2\\Client\\Token\\AccessToken
+AllowEmpty	assets/PHPMailer/src/PHPMailer.php	/^    public $AllowEmpty = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+AltBody	assets/PHPMailer/src/PHPMailer.php	/^    public $AltBody = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+AnonymousFunction0e2de7a20100	pages/static/js/tree.js	/^    document.addEventListener('wheel', function(e) {$/;"	f
+AnonymousFunction1f16fc650100	pages/static/js/math/cloth.js	/^    canvas.addEventListener("mouseup", function(event) {$/;"	f
+AnonymousFunction1f16fc650200	pages/static/js/math/cloth.js	/^    canvas.addEventListener("mousedown", function(event){$/;"	f
+AnonymousFunction1f16fc650300	pages/static/js/math/cloth.js	/^    canvas.addEventListener("mousemove", function(event) {$/;"	f
+AnonymousFunction4cb3238c0100	pages/static/js/math/bezier.js	/^    canvas.addEventListener("mouseup", function(event) {$/;"	f
+AnonymousFunction4cb3238c0200	pages/static/js/math/bezier.js	/^    canvas.addEventListener("mousedown", function(event){$/;"	f
+AnonymousFunction4cb3238c0300	pages/static/js/math/bezier.js	/^    canvas.addEventListener("mousemove", function(event) {$/;"	f
+AnonymousFunction7dc3e17f0100	pages/static/js/math/pointysticks.js	/^    canvas.addEventListener("mouseup", function(event) {$/;"	f
+AnonymousFunction7dc3e17f0200	pages/static/js/math/pointysticks.js	/^    canvas.addEventListener("mousedown", function(event){$/;"	f
+AnonymousFunction7dc3e17f0300	pages/static/js/math/pointysticks.js	/^    canvas.addEventListener("mousemove", function(event) {$/;"	f
+AnonymousFunctionff003ec10100	pages/static/js/math/rope.js	/^    canvas.addEventListener("mouseup", function(event) {$/;"	f
+AnonymousFunctionff003ec10200	pages/static/js/math/rope.js	/^    canvas.addEventListener("mousedown", function(event){$/;"	f
+AnonymousFunctionff003ec10300	pages/static/js/math/rope.js	/^    canvas.addEventListener("mousemove", function(event) {$/;"	f
+AuthType	assets/PHPMailer/src/PHPMailer.php	/^    public $AuthType = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Body	assets/PHPMailer/src/PHPMailer.php	/^    public $Body = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_ASCII	assets/PHPMailer/src/PHPMailer.php	/^    const CHARSET_ASCII = 'us-ascii';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_ISO88591	assets/PHPMailer/src/PHPMailer.php	/^    const CHARSET_ISO88591 = 'iso-8859-1';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CHARSET_UTF8	assets/PHPMailer/src/PHPMailer.php	/^    const CHARSET_UTF8 = 'utf-8';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_ALTERNATIVE	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_ALTERNATIVE = 'multipart\/alternative';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_MIXED	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_MIXED = 'multipart\/mixed';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_MULTIPART_RELATED	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_MULTIPART_RELATED = 'multipart\/related';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_PLAINTEXT	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_PLAINTEXT = 'text\/plain';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_TEXT_CALENDAR	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_TEXT_CALENDAR = 'text\/calendar';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CONTENT_TYPE_TEXT_HTML	assets/PHPMailer/src/PHPMailer.php	/^    const CONTENT_TYPE_TEXT_HTML = 'text\/html';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CRLF	assets/PHPMailer/src/PHPMailer.php	/^    const CRLF = "\\r\\n";$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+CUTTING	pages/static/js/math/cloth.js	/^    CUTTING = false,$/;"	v
+CV	pages/views/cv.html	/^        <div id="CV">$/;"	I
+CV	pages/views/cvf.html	/^        <div id="CV">$/;"	I
+Changelog	assets/PHPMailer/README.md	/^## Changelog$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+CharSet	assets/PHPMailer/src/PHPMailer.php	/^    public $CharSet = self::CHARSET_ISO88591;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Compétences	pages/views/cvf.html	/^                    <h2 class="title">Compétences<\/h2>$/;"	i
+ConfirmReadingTo	assets/PHPMailer/src/PHPMailer.php	/^    public $ConfirmReadingTo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ContentType	assets/PHPMailer/src/PHPMailer.php	/^    public $ContentType = self::CONTENT_TYPE_PLAINTEXT;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Contributing	assets/PHPMailer/README.md	/^## Contributing$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+CustomHeader	assets/PHPMailer/src/PHPMailer.php	/^    protected $CustomHeader = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+D	pages/static/js/math/pointysticks.js	/^var D = 20;$/;"	v
+DEBUG_CLIENT	assets/PHPMailer/src/POP3.php	/^    const DEBUG_CLIENT = 2;$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+DEBUG_CLIENT	assets/PHPMailer/src/SMTP.php	/^    const DEBUG_CLIENT = 1;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_CONNECTION	assets/PHPMailer/src/SMTP.php	/^    const DEBUG_CONNECTION = 3;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_LOWLEVEL	assets/PHPMailer/src/SMTP.php	/^    const DEBUG_LOWLEVEL = 4;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_OFF	assets/PHPMailer/src/POP3.php	/^    const DEBUG_OFF = 0;$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+DEBUG_OFF	assets/PHPMailer/src/SMTP.php	/^    const DEBUG_OFF = 0;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEBUG_SERVER	assets/PHPMailer/src/POP3.php	/^    const DEBUG_SERVER = 1;$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+DEBUG_SERVER	assets/PHPMailer/src/SMTP.php	/^    const DEBUG_SERVER = 2;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEFAULT_PORT	assets/PHPMailer/src/POP3.php	/^    const DEFAULT_PORT = 110;$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+DEFAULT_PORT	assets/PHPMailer/src/SMTP.php	/^    const DEFAULT_PORT = 25;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+DEFAULT_TIMEOUT	assets/PHPMailer/src/POP3.php	/^    const DEFAULT_TIMEOUT = 30;$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+DKIM_Add	assets/PHPMailer/src/PHPMailer.php	/^    public function DKIM_Add($headers_line, $subject, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_BodyC	assets/PHPMailer/src/PHPMailer.php	/^    public function DKIM_BodyC($body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_HeaderC	assets/PHPMailer/src/PHPMailer.php	/^    public function DKIM_HeaderC($signHeader)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_QP	assets/PHPMailer/src/PHPMailer.php	/^    public function DKIM_QP($txt)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_Sign	assets/PHPMailer/src/PHPMailer.php	/^    public function DKIM_Sign($signHeader)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_copyHeaderFields	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_copyHeaderFields = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_domain	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_domain = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_extraHeaders	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_extraHeaders = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_identity	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_identity = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_passphrase	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_passphrase = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_private	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_private = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_private_string	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_private_string = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DKIM_selector	assets/PHPMailer/src/PHPMailer.php	/^    public $DKIM_selector = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+DRAGGING	pages/static/js/math/bezier.js	/^    DRAGGING = false,$/;"	v
+DRAGGING	pages/static/js/math/cloth.js	/^    DRAGGING = false,$/;"	v
+DRAGGING	pages/static/js/math/rope.js	/^    DRAGGING = false,$/;"	v
+Debugoutput	assets/PHPMailer/src/PHPMailer.php	/^    public $Debugoutput = 'echo';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Debugoutput	assets/PHPMailer/src/SMTP.php	/^    public $Debugoutput = 'echo';$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+Documentation	assets/PHPMailer/README.md	/^## Documentation$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+ENCODING_7BIT	assets/PHPMailer/src/PHPMailer.php	/^    const ENCODING_7BIT = '7bit';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_8BIT	assets/PHPMailer/src/PHPMailer.php	/^    const ENCODING_8BIT = '8bit';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_BASE64	assets/PHPMailer/src/PHPMailer.php	/^    const ENCODING_BASE64 = 'base64';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_BINARY	assets/PHPMailer/src/PHPMailer.php	/^    const ENCODING_BINARY = 'binary';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCODING_QUOTED_PRINTABLE	assets/PHPMailer/src/PHPMailer.php	/^    const ENCODING_QUOTED_PRINTABLE = 'quoted-printable';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCRYPTION_SMTPS	assets/PHPMailer/src/PHPMailer.php	/^    const ENCRYPTION_SMTPS = 'ssl';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ENCRYPTION_STARTTLS	assets/PHPMailer/src/PHPMailer.php	/^    const ENCRYPTION_STARTTLS = 'tls';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Education	pages/views/cv.html	/^                    <h2 class="title">Education<\/h2>$/;"	i
+Education	pages/views/cvf.html	/^                    <h2 class="title">Education<\/h2>$/;"	i
+Encoding	assets/PHPMailer/src/PHPMailer.php	/^    public $Encoding = self::ENCODING_8BIT;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ErrorInfo	assets/PHPMailer/src/PHPMailer.php	/^    public $ErrorInfo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Exception	assets/PHPMailer/src/Exception.php	/^class Exception extends \\Exception$/;"	c	namespace:PHPMailer\\PHPMailer
+Exception	pages/views/mailtest.php	/^use PHPMailer\\PHPMailer\\Exception;$/;"	a	typeref:unknown:PHPMailer\\PHPMailer\\Exception
+Expérience Professionnelle	pages/views/cvf.html	/^                    <h2 class="title">Expérience Professionnelle<\/h2>$/;"	i
+FWS	assets/PHPMailer/src/PHPMailer.php	/^    const FWS = ' ';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Features	assets/PHPMailer/README.md	/^## Features$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+From	assets/PHPMailer/src/PHPMailer.php	/^    public $From = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+FromName	assets/PHPMailer/src/PHPMailer.php	/^    public $FromName = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Google	assets/PHPMailer/get_oauth_token.php	/^use League\\OAuth2\\Client\\Provider\\Google;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:League\\OAuth2\\Client\\Provider\\Google
+Grice	pages/views/cv.html	/^                        <h1 style="padding-top: 0.2em;">Grice<\/h1>$/;"	h
+Grice	pages/views/cvf.html	/^                        <h1 style="padding-top: 0.2em;">Grice<\/h1>$/;"	h
+Helo	assets/PHPMailer/src/PHPMailer.php	/^    public $Helo = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+History	assets/PHPMailer/README.md	/^## History$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+Hobbies	pages/views/cv.html	/^                    <h2 class="title">Hobbies<\/h2>$/;"	i
+Hobbies	pages/views/cvf.html	/^                    <h2 class="title">Hobbies<\/h2>$/;"	i
+Host	assets/PHPMailer/src/PHPMailer.php	/^    public $Host = 'localhost';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Hostname	assets/PHPMailer/src/PHPMailer.php	/^    public $Hostname = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_ADD	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_ADD = 'ADD';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_CANCEL	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_CANCEL = 'CANCEL';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_COUNTER	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_COUNTER = 'COUNTER';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_DECLINECOUNTER	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_DECLINECOUNTER = 'DECLINECOUNTER';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_PUBLISH	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_PUBLISH = 'PUBLISH';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REFRESH	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_REFRESH = 'REFRESH';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REPLY	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_REPLY = 'REPLY';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+ICAL_METHOD_REQUEST	assets/PHPMailer/src/PHPMailer.php	/^    const ICAL_METHOD_REQUEST = 'REQUEST';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Ical	assets/PHPMailer/src/PHPMailer.php	/^    public $Ical = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+IcalMethods	assets/PHPMailer/src/PHPMailer.php	/^    protected static $IcalMethods = [$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Installation & loading	assets/PHPMailer/README.md	/^## Installation & loading$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+LE	assets/PHPMailer/src/PHPMailer.php	/^    protected static $LE = self::CRLF;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+LE	assets/PHPMailer/src/POP3.php	/^    const LE = "\\r\\n";$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+LE	assets/PHPMailer/src/SMTP.php	/^    const LE = "\\r\\n";$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+Legacy versions	assets/PHPMailer/README.md	/^## Legacy versions$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+License	assets/PHPMailer/README.md	/^## License$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+Liens Sociaux	pages/views/cvf.html	/^                    <h2 class="title">Liens Sociaux<\/h2>$/;"	i
+Localization	assets/PHPMailer/README.md	/^## Localization$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+M	pages/static/js/math/cloth.js	/^    M = 50;$/;"	v
+MAIL_MAX_LINE_LENGTH	assets/PHPMailer/src/PHPMailer.php	/^    const MAIL_MAX_LINE_LENGTH = 63;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+MAX_LINE_LENGTH	assets/PHPMailer/src/PHPMailer.php	/^    const MAX_LINE_LENGTH = 998;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+MAX_LINE_LENGTH	assets/PHPMailer/src/SMTP.php	/^    const MAX_LINE_LENGTH = 998;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+MAX_REPLY_LENGTH	assets/PHPMailer/src/SMTP.php	/^    const MAX_REPLY_LENGTH = 512;$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+MIMEBody	assets/PHPMailer/src/PHPMailer.php	/^    protected $MIMEBody = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MIMEHeader	assets/PHPMailer/src/PHPMailer.php	/^    protected $MIMEHeader = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Mailer	assets/PHPMailer/src/PHPMailer.php	/^    public $Mailer = 'mail';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MessageDate	assets/PHPMailer/src/PHPMailer.php	/^    public $MessageDate = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+MessageID	assets/PHPMailer/src/PHPMailer.php	/^    public $MessageID = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Microsoft	assets/PHPMailer/get_oauth_token.php	/^use Stevenmaguire\\OAuth2\\Client\\Provider\\Microsoft;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:Stevenmaguire\\OAuth2\\Client\\Provider\\Microsoft
+Minimal installation	assets/PHPMailer/README.md	/^### Minimal installation$/;"	S	section:PHPMailer – A full-featured email creation and transfer class for PHP""Legacy versions
+N	pages/static/js/math/bezier.js	/^    N = 20;$/;"	v
+N	pages/static/js/math/cloth.js	/^    N = 50,$/;"	v
+N	pages/static/js/math/rope.js	/^    N = 20;$/;"	v
+OAuth	assets/PHPMailer/src/OAuth.php	/^class OAuth$/;"	c	namespace:PHPMailer\\PHPMailer
+PATH	utils/settings.php	/^ define('PATH', array($/;"	d
+PHPMailer	assets/PHPMailer/src/PHPMailer.php	/^class PHPMailer$/;"	c	namespace:PHPMailer\\PHPMailer
+PHPMailer	pages/views/mailtest.php	/^use PHPMailer\\PHPMailer\\PHPMailer;$/;"	a	typeref:unknown:PHPMailer\\PHPMailer\\PHPMailer
+PHPMailer For Enterprise	assets/PHPMailer/README.md	/^## PHPMailer For Enterprise$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+PHPMailer – A full-featured email creation and transfer class for PHP	assets/PHPMailer/README.md	/^# PHPMailer – A full-featured email creation and transfer class for PHP$/;"	c
+PHPMailer\\PHPMailer	assets/PHPMailer/get_oauth_token.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	assets/PHPMailer/src/Exception.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	assets/PHPMailer/src/OAuth.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	assets/PHPMailer/src/PHPMailer.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	assets/PHPMailer/src/POP3.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\PHPMailer	assets/PHPMailer/src/SMTP.php	/^namespace PHPMailer\\PHPMailer;$/;"	n
+PHPMailer\\\\PHPMailer\\\\	assets/PHPMailer/composer.json	/^            "PHPMailer\\\\PHPMailer\\\\": "src\/"$/;"	s	object:autoload.psr-4
+PHPMailer\\\\Test\\\\	assets/PHPMailer/composer.json	/^            "PHPMailer\\\\Test\\\\": "test\/"$/;"	s	object:autoload-dev.psr-4
+POINT	pages/static/js/math/cloth.js	/^    POINT = null,$/;"	v
+POINTS	pages/static/js/math/bezier.js	/^    POINTS = [],$/;"	v
+POINTS	pages/static/js/math/cloth.js	/^    POINTS = [],$/;"	v
+POINTS	pages/static/js/math/rope.js	/^    POINTS = [],$/;"	v
+POP3	assets/PHPMailer/src/POP3.php	/^class POP3$/;"	c	namespace:PHPMailer\\PHPMailer
+Password	assets/PHPMailer/src/PHPMailer.php	/^    public $Password = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Php Developer	pages/views/cv.html	/^                    <h2 class="title">Php Developer<\/h2>$/;"	i
+Php développeur	pages/views/cvf.html	/^                    <h2 class="title">Php développeur<\/h2>$/;"	i
+Please Come back for your eggs	pages/views/coming-soon.html	/^               <h3>Please Come back for your eggs<\/h3> $/;"	j
+Port	assets/PHPMailer/src/PHPMailer.php	/^    public $Port = 25;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Priority	assets/PHPMailer/src/PHPMailer.php	/^    public $Priority;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+RecipientsQueue	assets/PHPMailer/src/PHPMailer.php	/^    protected $RecipientsQueue = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+RefreshToken	assets/PHPMailer/src/OAuth.php	/^use League\\OAuth2\\Client\\Grant\\RefreshToken;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:League\\OAuth2\\Client\\Grant\\RefreshToken
+ReplyTo	assets/PHPMailer/src/PHPMailer.php	/^    protected $ReplyTo = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ReplyToQueue	assets/PHPMailer/src/PHPMailer.php	/^    protected $ReplyToQueue = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Router	utils/router.php	/^    abstract class Router {$/;"	c
+SERVER_ROOT	index.php	/^    define('SERVER_ROOT', __DIR__);$/;"	d
+SETTINGS	utils/settings.php	/^ define('SETTINGS', array($/;"	d
+SMTP	assets/PHPMailer/src/SMTP.php	/^class SMTP$/;"	c	namespace:PHPMailer\\PHPMailer
+SMTP	pages/views/mailtest.php	/^use PHPMailer\\PHPMailer\\SMTP;$/;"	a	typeref:unknown:PHPMailer\\PHPMailer\\SMTP
+SMTPAuth	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPAuth = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPAutoTLS	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPAutoTLS = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPDebug	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPDebug = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPKeepAlive	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPKeepAlive = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPOptions	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPOptions = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SMTPSecure	assets/PHPMailer/src/PHPMailer.php	/^    public $SMTPSecure = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+STD_LINE_LENGTH	assets/PHPMailer/src/PHPMailer.php	/^    const STD_LINE_LENGTH = 76;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STICKS	pages/static/js/math/bezier.js	/^    STICKS = [],$/;"	v
+STICKS	pages/static/js/math/cloth.js	/^    STICKS = [],$/;"	v
+STICKS	pages/static/js/math/rope.js	/^    STICKS = [],$/;"	v
+STOP_CONTINUE	assets/PHPMailer/src/PHPMailer.php	/^    const STOP_CONTINUE = 1;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STOP_CRITICAL	assets/PHPMailer/src/PHPMailer.php	/^    const STOP_CRITICAL = 2;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+STOP_MESSAGE	assets/PHPMailer/src/PHPMailer.php	/^    const STOP_MESSAGE = 0;$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+Samson	pages/views/cv.html	/^                        <h1>Samson<\/h1> $/;"	h
+Samson	pages/views/cvf.html	/^                        <h1>Samson<\/h1> $/;"	h
+Security	assets/PHPMailer/README.md	/^## Security$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+Security notices relating to PHPMailer	assets/PHPMailer/SECURITY.md	/^# Security notices relating to PHPMailer$/;"	c
+Sender	assets/PHPMailer/src/PHPMailer.php	/^    public $Sender = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Sendmail	assets/PHPMailer/src/PHPMailer.php	/^    public $Sendmail = '\/usr\/sbin\/sendmail';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SingleTo	assets/PHPMailer/src/PHPMailer.php	/^    public $SingleTo = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+SingleToArray	assets/PHPMailer/src/PHPMailer.php	/^    protected $SingleToArray = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Site Under Construction	pages/views/coming-soon.html	/^               <h1>Site Under Construction<\/h1> $/;"	h
+Skills	pages/views/cv.html	/^                    <h2 class="title">Skills<\/h2>$/;"	i
+Social Links	pages/views/cv.html	/^                    <h2 class="title">Social Links<\/h2>$/;"	i
+Sponsorship	assets/PHPMailer/README.md	/^## Sponsorship$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+Subject	assets/PHPMailer/src/PHPMailer.php	/^    public $Subject = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Tests	assets/PHPMailer/README.md	/^## Tests$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+Timelimit	assets/PHPMailer/src/SMTP.php	/^    public $Timelimit = 300;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+Timeout	assets/PHPMailer/src/PHPMailer.php	/^    public $Timeout = 300;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Timeout	assets/PHPMailer/src/SMTP.php	/^    public $Timeout = 300;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+Tx	pages/static/js/tree.js	/^var X,Y,Z,Tx,Ty;$/;"	v
+Ty	pages/static/js/tree.js	/^var X,Y,Z,Tx,Ty;$/;"	v
+UPDATE	pages/static/js/math/bezier.js	/^var UPDATE = false,$/;"	v
+UPDATE	pages/static/js/math/cloth.js	/^var UPDATE = false,$/;"	v
+UPDATE	pages/static/js/math/rope.js	/^var UPDATE = false,$/;"	v
+UPDATES	pages/static/js/math/bezier.js	/^    UPDATES = 20,$/;"	v
+UPDATES	pages/static/js/math/cloth.js	/^    UPDATES = 50,$/;"	v
+UPDATES	pages/static/js/math/rope.js	/^    UPDATES = 20,$/;"	v
+Upgrading from 5.2	assets/PHPMailer/README.md	/^### Upgrading from 5.2$/;"	S	section:PHPMailer – A full-featured email creation and transfer class for PHP""Legacy versions
+UseSendmailOptions	assets/PHPMailer/src/PHPMailer.php	/^    public $UseSendmailOptions = true;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Username	assets/PHPMailer/src/PHPMailer.php	/^    public $Username = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+VERSION	assets/PHPMailer/src/PHPMailer.php	/^    const VERSION = '6.5.1';$/;"	d	class:PHPMailer\\PHPMailer\\PHPMailer
+VERSION	assets/PHPMailer/src/POP3.php	/^    const VERSION = '6.5.1';$/;"	d	class:PHPMailer\\PHPMailer\\POP3
+VERSION	assets/PHPMailer/src/SMTP.php	/^    const VERSION = '6.5.1';$/;"	d	class:PHPMailer\\PHPMailer\\SMTP
+What's changed since moving from SourceForge?	assets/PHPMailer/README.md	/^### What's changed since moving from SourceForge?$/;"	S	section:PHPMailer – A full-featured email creation and transfer class for PHP""History
+Why you might need it	assets/PHPMailer/README.md	/^## Why you might need it$/;"	s	chapter:PHPMailer – A full-featured email creation and transfer class for PHP
+WordWrap	assets/PHPMailer/src/PHPMailer.php	/^    public $WordWrap = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Work Experience	pages/views/cv.html	/^                    <h2 class="title">Work Experience<\/h2>$/;"	i
+X	pages/static/js/math/pointysticks.js	/^var X,Y;$/;"	v
+X	pages/static/js/tree.js	/^var X,Y,Z,Tx,Ty;$/;"	v
+XMailer	assets/PHPMailer/src/PHPMailer.php	/^    public $XMailer = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+Y	pages/static/js/math/pointysticks.js	/^var X,Y;$/;"	v
+Y	pages/static/js/tree.js	/^var X,Y,Z,Tx,Ty;$/;"	v
+Yahoo	assets/PHPMailer/get_oauth_token.php	/^use Hayageek\\OAuth2\\Client\\Provider\\Yahoo;$/;"	a	namespace:PHPMailer\\PHPMailer	typeref:unknown:Hayageek\\OAuth2\\Client\\Provider\\Yahoo
+Z	pages/static/js/tree.js	/^var X,Y,Z,Tx,Ty;$/;"	v
+[lamagicx.eu](http://lamagicx.eu/)	README.md	/^# [lamagicx.eu](http:\/\/lamagicx.eu\/)$/;"	c
+__construct	assets/PHPMailer/src/OAuth.php	/^    public function __construct($options)$/;"	f	class:PHPMailer\\PHPMailer\\OAuth
+__construct	assets/PHPMailer/src/PHPMailer.php	/^    public function __construct($exceptions = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+__destruct	assets/PHPMailer/src/PHPMailer.php	/^    public function __destruct()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+_mime_types	assets/PHPMailer/src/PHPMailer.php	/^    public static function _mime_types($ext = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+about	pages/views/cv.html	/^                <div id="about">$/;"	I
+about	pages/views/cvf.html	/^                <div id="about">$/;"	I
+action_function	assets/PHPMailer/src/PHPMailer.php	/^    public $action_function = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+add	utils/router.php	/^        public static function add(string $path, string $target, bool $regex = false, bool $wild/;"	f	class:Router
+addAddress	assets/PHPMailer/src/PHPMailer.php	/^    public function addAddress($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addAnAddress	assets/PHPMailer/src/PHPMailer.php	/^    protected function addAnAddress($kind, $address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addAttachment	assets/PHPMailer/src/PHPMailer.php	/^    public function addAttachment($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addBCC	assets/PHPMailer/src/PHPMailer.php	/^    public function addBCC($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addCC	assets/PHPMailer/src/PHPMailer.php	/^    public function addCC($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addCustomHeader	assets/PHPMailer/src/PHPMailer.php	/^    public function addCustomHeader($name, $value = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addEmbeddedImage	assets/PHPMailer/src/PHPMailer.php	/^    public function addEmbeddedImage($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addOrEnqueueAnAddress	assets/PHPMailer/src/PHPMailer.php	/^    protected function addOrEnqueueAnAddress($kind, $address, $name)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addPoint	pages/static/js/math/script.js	/^    function addPoint (x, y, ox, oy) {$/;"	f	function:window.onload
+addReplyTo	assets/PHPMailer/src/PHPMailer.php	/^    public function addReplyTo($address, $name = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addStick	pages/static/js/math/script.js	/^    function addStick (i1, i2) {$/;"	f	function:window.onload
+addStringAttachment	assets/PHPMailer/src/PHPMailer.php	/^    public function addStringAttachment($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addStringEmbeddedImage	assets/PHPMailer/src/PHPMailer.php	/^    public function addStringEmbeddedImage($/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addrAppend	assets/PHPMailer/src/PHPMailer.php	/^    public function addrAppend($type, $addr)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+addrFormat	assets/PHPMailer/src/PHPMailer.php	/^    public function addrFormat($addr)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+all_recipients	assets/PHPMailer/src/PHPMailer.php	/^    protected $all_recipients = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+alternativeExists	assets/PHPMailer/src/PHPMailer.php	/^    public function alternativeExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+attachAll	assets/PHPMailer/src/PHPMailer.php	/^    protected function attachAll($disposition_type, $boundary)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+attachment	assets/PHPMailer/src/PHPMailer.php	/^    protected $attachment = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+attachmentExists	assets/PHPMailer/src/PHPMailer.php	/^    public function attachmentExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+authUrl	assets/PHPMailer/get_oauth_token.php	/^    $authUrl = $provider->getAuthorizationUrl($options);$/;"	v	namespace:PHPMailer\\PHPMailer
+authenticate	assets/PHPMailer/src/SMTP.php	/^    public function authenticate($/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+authorise	assets/PHPMailer/src/POP3.php	/^    public function authorise($host, $port = false, $timeout = false, $username = '', $password /;"	f	class:PHPMailer\\PHPMailer\\POP3
+authors	assets/PHPMailer/composer.json	/^    "authors": [$/;"	a
+autoload	assets/PHPMailer/composer.json	/^    "autoload": {$/;"	o
+autoload-dev	assets/PHPMailer/composer.json	/^    "autoload-dev": {$/;"	o
+base64EncodeWrapMB	assets/PHPMailer/src/PHPMailer.php	/^    public function base64EncodeWrapMB($str, $linebreak = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+bcc	assets/PHPMailer/src/PHPMailer.php	/^    protected $bcc = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+body	pages/static/css/coming-soon.css	/^    body {$/;"	s
+body	pages/static/css/coming-soon.css	/^body {$/;"	s
+body	pages/static/css/comming-soon.css	/^    body {$/;"	s
+body	pages/static/css/comming-soon.css	/^body {$/;"	s
+body	pages/static/css/cv_style.css	/^body {$/;"	s
+boundary	assets/PHPMailer/src/PHPMailer.php	/^    protected $boundary = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+canvas	pages/views/math/bezier.html	/^         <canvas id="canvas" width="800" height="400" style="border:1px solid #000000;">$/;"	I
+canvas	pages/views/math/cloth.html	/^         <canvas id="canvas" width="800" height="400" style="border:1px solid #000000;">$/;"	I
+canvas	pages/views/math/math.html	/^         <canvas id="canvas" width="800" height="400" style="border:1px solid #000000;">$/;"	I
+canvas	pages/views/math/pointsandsticks.html	/^         <canvas id="canvas" width="800" height="400" style="border:1px solid #000000;">$/;"	I
+canvas	pages/views/math/rope.html	/^         <canvas id="canvas" width="800" height="400" style="border:1px solid #000000;">$/;"	I
+canvas	pages/views/tree/tree.html	/^        <canvas id="canvas" width="200" height="100"><\/canvas>$/;"	I
+catchWarning	assets/PHPMailer/src/POP3.php	/^    protected function catchWarning($errno, $errstr, $errfile, $errline)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+cc	assets/PHPMailer/src/PHPMailer.php	/^    protected $cc = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+check	assets/PHPMailer/composer.json	/^        "check": ".\/vendor\/bin\/phpcs",$/;"	s	object:scripts
+checkResponse	assets/PHPMailer/src/POP3.php	/^    protected function checkResponse($string)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+cidExists	assets/PHPMailer/src/PHPMailer.php	/^    protected function cidExists($cid)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function clearAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearAllRecipients	assets/PHPMailer/src/PHPMailer.php	/^    public function clearAllRecipients()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearAttachments	assets/PHPMailer/src/PHPMailer.php	/^    public function clearAttachments()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearBCCs	assets/PHPMailer/src/PHPMailer.php	/^    public function clearBCCs()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearCCs	assets/PHPMailer/src/PHPMailer.php	/^    public function clearCCs()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearCanvas	pages/static/js/math/bezier.js	/^    function clearCanvas () {$/;"	f	function:window.onload
+clearCanvas	pages/static/js/math/cloth.js	/^    function clearCanvas () {$/;"	f	function:window.onload
+clearCanvas	pages/static/js/math/rope.js	/^    function clearCanvas () {$/;"	f	function:window.onload
+clearCustomHeaders	assets/PHPMailer/src/PHPMailer.php	/^    public function clearCustomHeaders()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearQueuedAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function clearQueuedAddresses($kind)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clearReplyTos	assets/PHPMailer/src/PHPMailer.php	/^    public function clearReplyTos()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+clientId	assets/PHPMailer/get_oauth_token.php	/^$clientId = 'RANDOMCHARS-----duv1n2.apps.googleusercontent.com';$/;"	v	namespace:PHPMailer\\PHPMailer
+clientSecret	assets/PHPMailer/get_oauth_token.php	/^$clientSecret = 'RANDOMCHARS-----lGyjPcRtvP';$/;"	v	namespace:PHPMailer\\PHPMailer
+client_send	assets/PHPMailer/src/SMTP.php	/^    public function client_send($data, $command = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+close	assets/PHPMailer/src/SMTP.php	/^    public function close()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+connect	assets/PHPMailer/src/POP3.php	/^    public function connect($host, $port = false, $tval = 30)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+connect	assets/PHPMailer/src/SMTP.php	/^    public function connect($host, $port = null, $timeout = 30, $options = [])$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+connected	assets/PHPMailer/src/POP3.php	/^    protected $connected = false;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+connected	assets/PHPMailer/src/SMTP.php	/^    public function connected()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+constrainPoints	pages/static/js/math/bezier.js	/^    function constrainPoints () {$/;"	f	function:window.onload
+constrainPoints	pages/static/js/math/cloth.js	/^    function constrainPoints () {$/;"	f	function:window.onload
+constrainPoints	pages/static/js/math/pointysticks.js	/^	function constrainPoints() {$/;"	f	function:window.onload
+constrainPoints	pages/static/js/math/rope.js	/^    function constrainPoints () {$/;"	f	function:window.onload
+contact	pages/views/cv.html	/^                    <div id="contact">$/;"	I
+contact	pages/views/cvf.html	/^                    <div id="contact">$/;"	I
+coverage	assets/PHPMailer/composer.json	/^        "coverage": ".\/vendor\/bin\/phpunit",$/;"	s	object:scripts
+createBody	assets/PHPMailer/src/PHPMailer.php	/^    public function createBody()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+createHeader	assets/PHPMailer/src/PHPMailer.php	/^    public function createHeader()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+createPoint	pages/static/js/math/bezier.js	/^    function createPoint (x, y, pinned) {$/;"	f	function:window.onload
+createPoint	pages/static/js/math/cloth.js	/^    function createPoint (x, y, pinned) {$/;"	f	function:window.onload
+createPoint	pages/static/js/math/pointysticks.js	/^    function createPoint(x, y, ox, oy, p) {$/;"	f	function:window.onload
+createPoint	pages/static/js/math/rope.js	/^    function createPoint (x, y, pinned) {$/;"	f	function:window.onload
+createRope	pages/static/js/math/bezier.js	/^    function createRope (startX, startY, endX, endY, N) {$/;"	f	function:window.onload
+createRope	pages/static/js/math/cloth.js	/^    function createRope (startX, startY, endX, endY, N, M) {$/;"	f	function:window.onload
+createRope	pages/static/js/math/rope.js	/^    function createRope (startX, startY, endX, endY, N) {$/;"	f	function:window.onload
+createStick	pages/static/js/math/bezier.js	/^    function createStick (p0, p1, l) {$/;"	f	function:window.onload
+createStick	pages/static/js/math/cloth.js	/^    function createStick (p0, p1, l) {$/;"	f	function:window.onload
+createStick	pages/static/js/math/pointysticks.js	/^    function createStick(p0, p1, l) {$/;"	f	function:window.onload
+createStick	pages/static/js/math/rope.js	/^    function createStick (p0, p1, l) {$/;"	f	function:window.onload
+data	assets/PHPMailer/src/SMTP.php	/^    public function data($msg_data)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+dealerdirect/phpcodesniffer-composer-installer	assets/PHPMailer/composer.json	/^        "dealerdirect\/phpcodesniffer-composer-installer": "^0.7.0",$/;"	s	object:require-dev
+default	utils/router.php	/^        private static $default = __DIR__;$/;"	v	class:Router
+default	utils/router.php	/^        public static function default(string $target) {$/;"	f	class:Router
+description	assets/PHPMailer/composer.json	/^    "description": "PHPMailer is a full-featured email creation and transfer class for PHP",$/;"	s
+disconnect	assets/PHPMailer/src/POP3.php	/^    public function disconnect()$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+distance	pages/static/js/math/bezier.js	/^    function distance (x0, y0, x1, y1) {$/;"	f	function:window.onload
+distance	pages/static/js/math/cloth.js	/^    function distance (x0, y0, x1, y1) {$/;"	f	function:window.onload
+distance	pages/static/js/math/pointysticks.js	/^	function distance(p0, p1) {$/;"	f	function:window.onload
+distance	pages/static/js/math/rope.js	/^    function distance (x0, y0, x1, y1) {$/;"	f	function:window.onload
+distance	pages/static/js/math/script.js	/^    function distance (p1, p0) {$/;"	f	function:window.onload
+doCallback	assets/PHPMailer/src/PHPMailer.php	/^    protected function doCallback($isSent, $to, $cc, $bcc, $subject, $body, $from, $extra)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+do_debug	assets/PHPMailer/src/POP3.php	/^    public $do_debug = self::DEBUG_OFF;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+do_debug	assets/PHPMailer/src/SMTP.php	/^    public $do_debug = self::DEBUG_OFF;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+do_verp	assets/PHPMailer/src/PHPMailer.php	/^    public $do_verp = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+do_verp	assets/PHPMailer/src/SMTP.php	/^    public $do_verp = false;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+doctrine/annotations	assets/PHPMailer/composer.json	/^        "doctrine\/annotations": "^1.2",$/;"	s	object:require-dev
+dsn	assets/PHPMailer/src/PHPMailer.php	/^    public $dsn = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+edebug	assets/PHPMailer/src/PHPMailer.php	/^    protected function edebug($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+edebug	assets/PHPMailer/src/SMTP.php	/^    protected function edebug($str, $level = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+egg-one	pages/views/coming-soon.html	/^                    <div class="egg" id="egg-one">$/;"	I
+egg-two	pages/views/coming-soon.html	/^                    <div class="egg" id="egg-two">$/;"	I
+eggs	pages/views/coming-soon.html	/^            <div id="eggs">$/;"	I
+email	assets/PHPMailer/composer.json	/^            "email": "codeworxtech@users.sourceforge.net"$/;"	s	object:authors.2
+email	assets/PHPMailer/composer.json	/^            "email": "jimjag@gmail.com"$/;"	s	object:authors.1
+email	assets/PHPMailer/composer.json	/^            "email": "phpmailer@synchromedia.co.uk"$/;"	s	object:authors.0
+email	pages/views/cv.html	/^                        <div class="cont" id="email">$/;"	I
+email	pages/views/cvf.html	/^                        <div class="cont" id="email">$/;"	I
+encodeFile	assets/PHPMailer/src/PHPMailer.php	/^    protected function encodeFile($path, $encoding = self::ENCODING_BASE64)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeHeader	assets/PHPMailer/src/PHPMailer.php	/^    public function encodeHeader($str, $position = 'text')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeQ	assets/PHPMailer/src/PHPMailer.php	/^    public function encodeQ($str, $position = 'text')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeQP	assets/PHPMailer/src/PHPMailer.php	/^    public function encodeQP($string)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+encodeString	assets/PHPMailer/src/PHPMailer.php	/^    public function encodeString($str, $encoding = self::ENCODING_BASE64)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+endBoundary	assets/PHPMailer/src/PHPMailer.php	/^    protected function endBoundary($boundary)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+error	assets/PHPMailer/src/SMTP.php	/^    protected $error = [$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+errorHandler	assets/PHPMailer/src/SMTP.php	/^    protected function errorHandler($errno, $errmsg, $errfile = '', $errline = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+errorMessage	assets/PHPMailer/src/Exception.php	/^    public function errorMessage()$/;"	f	class:PHPMailer\\PHPMailer\\Exception
+error_count	assets/PHPMailer/src/PHPMailer.php	/^    protected $error_count = 0;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+errors	assets/PHPMailer/src/POP3.php	/^    protected $errors = [];$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+exceptions	assets/PHPMailer/src/PHPMailer.php	/^    protected $exceptions = false;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+ext-ctype	assets/PHPMailer/composer.json	/^        "ext-ctype": "*",$/;"	s	object:require
+ext-filter	assets/PHPMailer/composer.json	/^        "ext-filter": "*",$/;"	s	object:require
+ext-hash	assets/PHPMailer/composer.json	/^        "ext-hash": "*"$/;"	s	object:require
+ext-mbstring	assets/PHPMailer/composer.json	/^        "ext-mbstring": "Needed to send email in multibyte encoding charset or decode encoded ad/;"	s	object:suggest
+fileIsAccessible	assets/PHPMailer/src/PHPMailer.php	/^    protected static function fileIsAccessible($path)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+filenameToType	assets/PHPMailer/src/PHPMailer.php	/^    public static function filenameToType($filename)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+footer	pages/views/coming-soon.html	/^            <div id="footer">$/;"	I
+functionName	utils/ajax-controller.php	/^$functionName = $_POST["func"]; \/\/ func parameter should be sent in AJAX, determines which fun/;"	v
+funding	assets/PHPMailer/composer.json	/^    "funding": [$/;"	a
+generateId	assets/PHPMailer/src/PHPMailer.php	/^    protected function generateId()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getAllRecipientAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function getAllRecipientAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getAttachments	assets/PHPMailer/src/PHPMailer.php	/^    public function getAttachments()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getBccAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function getBccAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getBoundary	assets/PHPMailer/src/PHPMailer.php	/^    protected function getBoundary($boundary, $charSet, $contentType, $encoding)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getCcAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function getCcAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getCustomHeaders	assets/PHPMailer/src/PHPMailer.php	/^    public function getCustomHeaders()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getDebugLevel	assets/PHPMailer/src/SMTP.php	/^    public function getDebugLevel()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getDebugOutput	assets/PHPMailer/src/SMTP.php	/^    public function getDebugOutput()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getError	assets/PHPMailer/src/SMTP.php	/^    public function getError()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getErrors	assets/PHPMailer/src/POP3.php	/^    public function getErrors()$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+getGrant	assets/PHPMailer/src/OAuth.php	/^    protected function getGrant()$/;"	f	class:PHPMailer\\PHPMailer\\OAuth
+getLE	assets/PHPMailer/src/PHPMailer.php	/^    public static function getLE()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getLastMessageID	assets/PHPMailer/src/PHPMailer.php	/^    public function getLastMessageID()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getLastReply	assets/PHPMailer/src/SMTP.php	/^    public function getLastReply()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getLastTransactionID	assets/PHPMailer/src/SMTP.php	/^    public function getLastTransactionID()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getMailMIME	assets/PHPMailer/src/PHPMailer.php	/^    public function getMailMIME()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getOAuth	assets/PHPMailer/src/PHPMailer.php	/^    public function getOAuth()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getOauth64	assets/PHPMailer/src/OAuth.php	/^    public function getOauth64()$/;"	f	class:PHPMailer\\PHPMailer\\OAuth
+getReplyToAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function getReplyToAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getResponse	assets/PHPMailer/src/POP3.php	/^    protected function getResponse($size = 128)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+getSMTPConnection	assets/PHPMailer/src/SMTP.php	/^    protected function getSMTPConnection($host, $port = null, $timeout = 30, $options = [])$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getSMTPInstance	assets/PHPMailer/src/PHPMailer.php	/^    public function getSMTPInstance()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getSentMIMEMessage	assets/PHPMailer/src/PHPMailer.php	/^    public function getSentMIMEMessage()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getServerExt	assets/PHPMailer/src/SMTP.php	/^    public function getServerExt($name)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getServerExtList	assets/PHPMailer/src/SMTP.php	/^    public function getServerExtList()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getTimeout	assets/PHPMailer/src/SMTP.php	/^    public function getTimeout()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+getToAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public function getToAddresses()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getToken	assets/PHPMailer/src/OAuth.php	/^    protected function getToken()$/;"	f	class:PHPMailer\\PHPMailer\\OAuth
+getTranslations	assets/PHPMailer/src/PHPMailer.php	/^    public function getTranslations()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+getVerp	assets/PHPMailer/src/SMTP.php	/^    public function getVerp()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+get_final_point	utils/router.php	/^    function get_final_point($path = null) {$/;"	f
+get_lines	assets/PHPMailer/src/SMTP.php	/^    protected function get_lines()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+get_path	utils/router.php	/^    function get_path($cat, $path = '') {$/;"	f
+handle	pages/views/coming-soon.html	/^                    <div id="handle">$/;"	I
+has8bitChars	assets/PHPMailer/src/PHPMailer.php	/^    public function has8bitChars($text)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hasLineLongerThanMax	assets/PHPMailer/src/PHPMailer.php	/^    public static function hasLineLongerThanMax($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hasMultiBytes	assets/PHPMailer/src/PHPMailer.php	/^    public function hasMultiBytes($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hayageek/oauth2-yahoo	assets/PHPMailer/composer.json	/^        "hayageek\/oauth2-yahoo": "Needed for Yahoo XOAUTH2 authentication",$/;"	s	object:suggest
+header	pages/views/coming-soon.html	/^            <div id="header">$/;"	I
+header	pages/views/cv.html	/^                <div id="header">$/;"	I
+header	pages/views/cvf.html	/^                <div id="header">$/;"	I
+headerLine	assets/PHPMailer/src/PHPMailer.php	/^    public function headerLine($name, $value)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+hello	assets/PHPMailer/src/SMTP.php	/^    public function hello($host = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+helo_rply	assets/PHPMailer/src/SMTP.php	/^    protected $helo_rply;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+hmac	assets/PHPMailer/src/SMTP.php	/^    protected function hmac($data, $key)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+hobbies	pages/views/cv.html	/^                <div id="hobbies">$/;"	I
+hobbies	pages/views/cvf.html	/^                <div id="hobbies">$/;"	I
+host	assets/PHPMailer/src/POP3.php	/^    public $host;$/;"	v	class:PHPMailer\\PHPMailer\\POP3	typeref:unknown:selfDEBUG_OFF
+html2text	assets/PHPMailer/src/PHPMailer.php	/^    public function html2text($html, $advanced = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+i	pages/static/css/cv_style.css	/^i, .material-icons, .fa {$/;"	s
+idnSupported	assets/PHPMailer/src/PHPMailer.php	/^    public static function idnSupported()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+img	pages/static/css/cv_style.css	/^img {$/;"	s
+init	pages/static/js/tree.js	/^function init()$/;"	f
+inlineImageExists	assets/PHPMailer/src/PHPMailer.php	/^    public function inlineImageExists()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isError	assets/PHPMailer/src/PHPMailer.php	/^    public function isError()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isHTML	assets/PHPMailer/src/PHPMailer.php	/^    public function isHTML($isHtml = true)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isMail	assets/PHPMailer/src/PHPMailer.php	/^    public function isMail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isPermittedPath	assets/PHPMailer/src/PHPMailer.php	/^    protected static function isPermittedPath($path)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isQmail	assets/PHPMailer/src/PHPMailer.php	/^    public function isQmail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isSMTP	assets/PHPMailer/src/PHPMailer.php	/^    public function isSMTP()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isSendmail	assets/PHPMailer/src/PHPMailer.php	/^    public function isSendmail()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isShellSafe	assets/PHPMailer/src/PHPMailer.php	/^    protected static function isShellSafe($string)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+isValidHost	assets/PHPMailer/src/PHPMailer.php	/^    public static function isValidHost($host)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+lang	assets/PHPMailer/src/PHPMailer.php	/^    protected function lang($key)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+language	assets/PHPMailer/src/PHPMailer.php	/^    protected $language = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+lastMessageID	assets/PHPMailer/src/PHPMailer.php	/^    protected $lastMessageID = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+last_reply	assets/PHPMailer/src/SMTP.php	/^    protected $last_reply = '';$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+last_smtp_transaction_id	assets/PHPMailer/src/SMTP.php	/^    protected $last_smtp_transaction_id;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+league/oauth2-google	assets/PHPMailer/composer.json	/^        "league\/oauth2-google": "Needed for Google XOAUTH2 authentication",$/;"	s	object:suggest
+license	assets/PHPMailer/composer.json	/^    "license": "LGPL-2.1-only",$/;"	s
+links	pages/views/cv.html	/^                <div id="links">$/;"	I
+links	pages/views/cvf.html	/^                <div id="links">$/;"	I
+lint	assets/PHPMailer/composer.json	/^        "lint": [$/;"	a	object:scripts
+load	pages/static/js/send-email.js	/^function load() {$/;"	f
+login	assets/PHPMailer/src/POP3.php	/^    public function login($username = '', $password = '')$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+mail	assets/PHPMailer/src/SMTP.php	/^    public function mail($from)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+mail	pages/views/mailtest.php	/^    $mail = new PHPMailer(true);$/;"	v
+mailHeader	assets/PHPMailer/src/PHPMailer.php	/^    protected $mailHeader = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+mailPassthru	assets/PHPMailer/src/PHPMailer.php	/^    private function mailPassthru($to, $subject, $body, $header, $params)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+mailSend	assets/PHPMailer/src/PHPMailer.php	/^    protected function mailSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+main	pages/views/coming-soon.html	/^        <div id="main">$/;"	I
+main	pages/views/cv.html	/^            <div id="main">$/;"	I
+main	pages/views/cvf.html	/^            <div id="main">$/;"	I
+mb_pathinfo	assets/PHPMailer/src/PHPMailer.php	/^    public static function mb_pathinfo($path, $options = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+message_type	assets/PHPMailer/src/PHPMailer.php	/^    protected $message_type = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+mouseIsDown	pages/static/js/tree.js	/^var mouseIsDown = false;$/;"	v
+mouseX	pages/static/js/tree.js	/^var mouseX, mouseY;$/;"	v
+mouseY	pages/static/js/tree.js	/^var mouseX, mouseY;$/;"	v
+msgHTML	assets/PHPMailer/src/PHPMailer.php	/^    public function msgHTML($message, $basedir = '', $advanced = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+name	assets/PHPMailer/composer.json	/^            "name": "Andy Prevost",$/;"	s	object:authors.2
+name	assets/PHPMailer/composer.json	/^            "name": "Brent R. Matzelle"$/;"	s	object:authors.3
+name	assets/PHPMailer/composer.json	/^            "name": "Jim Jagielski",$/;"	s	object:authors.1
+name	assets/PHPMailer/composer.json	/^            "name": "Marcus Bointon",$/;"	s	object:authors.0
+name	assets/PHPMailer/composer.json	/^    "name": "phpmailer\/phpmailer",$/;"	s
+name	pages/views/cv.html	/^                    <div id="name">$/;"	I
+name	pages/views/cvf.html	/^                    <div id="name">$/;"	I
+noop	assets/PHPMailer/src/SMTP.php	/^    public function noop()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+normalizeBreaks	assets/PHPMailer/src/PHPMailer.php	/^    public static function normalizeBreaks($text, $breaktype = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+notfound	utils/router.php	/^    function notfound() {$/;"	f
+oauth	assets/PHPMailer/src/PHPMailer.php	/^    protected $oauth;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+oauthClientId	assets/PHPMailer/src/OAuth.php	/^    protected $oauthClientId = '';$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+oauthClientSecret	assets/PHPMailer/src/OAuth.php	/^    protected $oauthClientSecret = '';$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+oauthRefreshToken	assets/PHPMailer/src/OAuth.php	/^    protected $oauthRefreshToken = '';$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+oauthToken	assets/PHPMailer/src/OAuth.php	/^    protected $oauthToken;$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+oauthUserEmail	assets/PHPMailer/src/OAuth.php	/^    protected $oauthUserEmail = '';$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:0
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:1
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:10
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:11
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:12
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:13
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:14
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:15
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:16
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:17
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:18
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:19
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:2
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:20
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:21
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:22
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:23
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:24
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:25
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:26
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:27
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:3
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:4
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:5
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:6
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:7
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:8
+oldx	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:9
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:0
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:1
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:10
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:11
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:12
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:13
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:14
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:15
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:16
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:17
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:18
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:19
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:2
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:20
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:21
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:22
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:23
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:24
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:25
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:26
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:27
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:3
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:4
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:5
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:6
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:7
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:8
+oldy	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:9
+onload	pages/static/js/math/bezier.js	/^window.onload = function () {$/;"	f	function:window
+onload	pages/static/js/math/cloth.js	/^window.onload = function () {$/;"	f	function:window
+onload	pages/static/js/math/pointysticks.js	/^window.onload = function() {$/;"	f	function:window
+onload	pages/static/js/math/rope.js	/^window.onload = function () {$/;"	f	function:window
+onload	pages/static/js/math/script.js	/^window.onload = function () {$/;"	f	function:window
+onmousedown	pages/static/js/tree.js	/^    canvas.onmousedown = function(e) {$/;"	f	function:canvas
+onmousemove	pages/static/js/tree.js	/^    canvas.onmousemove = function(e) {$/;"	f	function:canvas
+onmouseup	pages/static/js/tree.js	/^    canvas.onmouseup = function(e) {$/;"	f	function:canvas
+onreadystatechange	pages/static/js/send-email.js	/^    xhttp.onreadystatechange = function() {$/;"	f	function:xhttp
+options	assets/PHPMailer/get_oauth_token.php	/^        $options = [$/;"	v	namespace:PHPMailer\\PHPMailer
+options	assets/PHPMailer/get_oauth_token.php	/^$options = [];$/;"	v	namespace:PHPMailer\\PHPMailer
+pan	pages/views/coming-soon.html	/^                    <div id="pan">$/;"	I
+params	assets/PHPMailer/get_oauth_token.php	/^$params = [$/;"	v	namespace:PHPMailer\\PHPMailer
+parseAddresses	assets/PHPMailer/src/PHPMailer.php	/^    public static function parseAddresses($addrstr, $useimap = true, $charset = self::CHARSET_IS/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+parseHelloFields	assets/PHPMailer/src/SMTP.php	/^    protected function parseHelloFields($type)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+password	assets/PHPMailer/src/POP3.php	/^    public $password;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+path	index.php	/^    $path = explode('?', $url, 2)[0];$/;"	v
+path_array	index.php	/^    $path_array = array_slice(explode('\/', $path), 1);$/;"	v
+php	assets/PHPMailer/composer.json	/^        "php": ">=5.5.0",$/;"	s	object:require
+php-parallel-lint/php-console-highlighter	assets/PHPMailer/composer.json	/^        "php-parallel-lint\/php-console-highlighter": "^0.5.0",$/;"	s	object:require-dev
+php-parallel-lint/php-parallel-lint	assets/PHPMailer/composer.json	/^        "php-parallel-lint\/php-parallel-lint": "^1.3",$/;"	s	object:require-dev
+phpcompatibility/php-compatibility	assets/PHPMailer/composer.json	/^        "phpcompatibility\/php-compatibility": "^9.3.5",$/;"	s	object:require-dev
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:0
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:1
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:10
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:11
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:12
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:13
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:14
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:15
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:16
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:17
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:18
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:19
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:2
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:20
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:21
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:22
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:23
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:24
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:25
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:26
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:27
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:3
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:4
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:5
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:6
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:7
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:8
+pinned	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	b	object:9
+play	pages/views/math/bezier.html	/^        <button onclick="togglePlay()" id="play">Play<\/button>$/;"	I
+play	pages/views/math/cloth.html	/^        <button onclick="togglePlay()" id="play">Play<\/button>$/;"	I
+play	pages/views/math/pointsandsticks.html	/^        <button onclick="togglePlay()" id="play">Play<\/button>$/;"	I
+play	pages/views/math/rope.html	/^        <button onclick="togglePlay()" id="play">Play<\/button>$/;"	I
+popBeforeSmtp	assets/PHPMailer/src/POP3.php	/^    public static function popBeforeSmtp($/;"	f	class:PHPMailer\\PHPMailer\\POP3
+pop_conn	assets/PHPMailer/src/POP3.php	/^    protected $pop_conn;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+port	assets/PHPMailer/src/POP3.php	/^    public $port;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+postSend	assets/PHPMailer/src/PHPMailer.php	/^    public function postSend()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+preSend	assets/PHPMailer/src/PHPMailer.php	/^    public function preSend()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+profile	pages/views/cv.html	/^                <div id="profile">$/;"	I
+profile	pages/views/cvf.html	/^                <div id="profile">$/;"	I
+provider	assets/PHPMailer/get_oauth_token.php	/^        $provider = new Google($params);$/;"	v	namespace:PHPMailer\\PHPMailer
+provider	assets/PHPMailer/get_oauth_token.php	/^        $provider = new Microsoft($params);$/;"	v	namespace:PHPMailer\\PHPMailer
+provider	assets/PHPMailer/get_oauth_token.php	/^        $provider = new Yahoo($params);$/;"	v	namespace:PHPMailer\\PHPMailer
+provider	assets/PHPMailer/get_oauth_token.php	/^$provider = null;$/;"	v	namespace:PHPMailer\\PHPMailer
+provider	assets/PHPMailer/src/OAuth.php	/^    protected $provider;$/;"	v	class:PHPMailer\\PHPMailer\\OAuth
+providerName	assets/PHPMailer/get_oauth_token.php	/^    $providerName = $_GET['provider'];$/;"	v	namespace:PHPMailer\\PHPMailer
+providerName	assets/PHPMailer/get_oauth_token.php	/^    $providerName = $_SESSION['provider'];$/;"	v	namespace:PHPMailer\\PHPMailer
+providerName	assets/PHPMailer/get_oauth_token.php	/^$providerName = '';$/;"	v	namespace:PHPMailer\\PHPMailer
+psr-4	assets/PHPMailer/composer.json	/^        "psr-4": {$/;"	o	object:autoload
+psr-4	assets/PHPMailer/composer.json	/^        "psr-4": {$/;"	o	object:autoload-dev
+psr/log	assets/PHPMailer/composer.json	/^        "psr\/log": "For optional PSR-3 debug logging",$/;"	s	object:suggest
+punyencodeAddress	assets/PHPMailer/src/PHPMailer.php	/^    public function punyencodeAddress($address)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+quit	assets/PHPMailer/src/SMTP.php	/^    public function quit($close_on_error = true)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+quotedString	assets/PHPMailer/src/PHPMailer.php	/^    public static function quotedString($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+recipient	assets/PHPMailer/src/SMTP.php	/^    public function recipient($address, $dsn = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+recordLastTransactionID	assets/PHPMailer/src/SMTP.php	/^    protected function recordLastTransactionID()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+redirectUri	assets/PHPMailer/get_oauth_token.php	/^$redirectUri = (isset($_SERVER['HTTPS']) ? 'https:\/\/' : 'http:\/\/') . $_SERVER['HTTP_HOST'] ./;"	v	namespace:PHPMailer\\PHPMailer
+render	utils/router.php	/^    function render(string $path, bool $sandbox = false) {$/;"	f
+renderPoints	pages/static/js/math/bezier.js	/^    function renderPoints () {$/;"	f	function:window.onload
+renderPoints	pages/static/js/math/cloth.js	/^    function renderPoints () {$/;"	f	function:window.onload
+renderPoints	pages/static/js/math/pointysticks.js	/^	function renderPoints() {$/;"	f	function:window.onload
+renderPoints	pages/static/js/math/rope.js	/^    function renderPoints () {$/;"	f	function:window.onload
+renderPoints	pages/static/js/math/script.js	/^    function renderPoints () {$/;"	f	function:window.onload
+renderSticks	pages/static/js/math/bezier.js	/^    function renderSticks () {$/;"	f	function:window.onload
+renderSticks	pages/static/js/math/cloth.js	/^    function renderSticks () {$/;"	f	function:window.onload
+renderSticks	pages/static/js/math/pointysticks.js	/^	function renderSticks() {$/;"	f	function:window.onload
+renderSticks	pages/static/js/math/rope.js	/^    function renderSticks () {$/;"	f	function:window.onload
+renderSticks	pages/static/js/math/script.js	/^    function renderSticks () {$/;"	f	function:window.onload
+require	assets/PHPMailer/composer.json	/^    "require": {$/;"	o
+require-dev	assets/PHPMailer/composer.json	/^    "require-dev": {$/;"	o
+reset	assets/PHPMailer/src/SMTP.php	/^    public function reset()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+rfcDate	assets/PHPMailer/src/PHPMailer.php	/^    public static function rfcDate()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+roave/security-advisories	assets/PHPMailer/composer.json	/^        "roave\/security-advisories": "dev-latest",$/;"	s	object:require-dev
+routes	utils/router.php	/^        private static $routes = array();$/;"	v	class:Router
+run	pages/static/js/tree.js	/^function run() {$/;"	f
+saucepan	pages/views/coming-soon.html	/^                <div id="saucepan">$/;"	I
+scan	index.php	/^    $scan = scandir(get_path('views', 'math\/'));$/;"	v
+scan	pages/views/math.php	/^$scan = scandir(get_path('views', 'math\/'));$/;"	v
+school	pages/views/cv.html	/^                <div id="school">$/;"	I
+school	pages/views/cvf.html	/^                <div id="school">$/;"	I
+scripts	assets/PHPMailer/composer.json	/^    "scripts": {$/;"	o
+secureHeader	assets/PHPMailer/src/PHPMailer.php	/^    public function secureHeader($str)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+send	assets/PHPMailer/src/PHPMailer.php	/^    public function send()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+send	pages/static/js/send-email.js	/^function send() {$/;"	f
+sendAndMail	assets/PHPMailer/src/SMTP.php	/^    public function sendAndMail($from)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendCommand	assets/PHPMailer/src/SMTP.php	/^    protected function sendCommand($command, $commandstring, $expect)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendHello	assets/PHPMailer/src/SMTP.php	/^    protected function sendHello($hello, $host)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+sendString	assets/PHPMailer/src/POP3.php	/^    protected function sendString($string)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+send_json	utils/router.php	/^    function send_json($content) {$/;"	f
+sendmailSend	assets/PHPMailer/src/PHPMailer.php	/^    protected function sendmailSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+serverHostname	assets/PHPMailer/src/PHPMailer.php	/^    protected function serverHostname()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+server_caps	assets/PHPMailer/src/SMTP.php	/^    protected $server_caps;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+set	assets/PHPMailer/src/PHPMailer.php	/^    public function set($name, $value = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setDebugLevel	assets/PHPMailer/src/SMTP.php	/^    public function setDebugLevel($level = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setDebugOutput	assets/PHPMailer/src/SMTP.php	/^    public function setDebugOutput($method = 'echo')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setError	assets/PHPMailer/src/PHPMailer.php	/^    protected function setError($msg)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setError	assets/PHPMailer/src/POP3.php	/^    protected function setError($error)$/;"	f	class:PHPMailer\\PHPMailer\\POP3
+setError	assets/PHPMailer/src/SMTP.php	/^    protected function setError($message, $detail = '', $smtp_code = '', $smtp_code_ex = '')$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setFrom	assets/PHPMailer/src/PHPMailer.php	/^    public function setFrom($address, $name = '', $auto = true)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setLE	assets/PHPMailer/src/PHPMailer.php	/^    protected static function setLE($le)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setLanguage	assets/PHPMailer/src/PHPMailer.php	/^    public function setLanguage($langcode = 'en', $lang_path = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setMessageType	assets/PHPMailer/src/PHPMailer.php	/^    protected function setMessageType()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setOAuth	assets/PHPMailer/src/PHPMailer.php	/^    public function setOAuth(OAuth $oauth)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setSMTPInstance	assets/PHPMailer/src/PHPMailer.php	/^    public function setSMTPInstance(SMTP $smtp)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setTimeout	assets/PHPMailer/src/SMTP.php	/^    public function setTimeout($timeout = 0)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setVerp	assets/PHPMailer/src/SMTP.php	/^    public function setVerp($enabled = false)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+setWordWrap	assets/PHPMailer/src/PHPMailer.php	/^    public function setWordWrap()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+setup	pages/static/js/tree.js	/^function setup() {$/;"	f
+sidebar	pages/views/cv.html	/^            <div id="sidebar">$/;"	I
+sidebar	pages/views/cvf.html	/^            <div id="sidebar">$/;"	I
+sign	assets/PHPMailer/src/PHPMailer.php	/^    public function sign($cert_filename, $key_filename, $key_pass, $extracerts_filename = '')$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_cert_file	assets/PHPMailer/src/PHPMailer.php	/^    protected $sign_cert_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_extracerts_file	assets/PHPMailer/src/PHPMailer.php	/^    protected $sign_extracerts_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_key_file	assets/PHPMailer/src/PHPMailer.php	/^    protected $sign_key_file = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+sign_key_pass	assets/PHPMailer/src/PHPMailer.php	/^    protected $sign_key_pass = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+skills	pages/views/cv.html	/^                <div id="skills">$/;"	I
+skills	pages/views/cvf.html	/^                <div id="skills">$/;"	I
+smtp	assets/PHPMailer/src/PHPMailer.php	/^    protected $smtp;$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpClose	assets/PHPMailer/src/PHPMailer.php	/^    public function smtpClose()$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpConnect	assets/PHPMailer/src/PHPMailer.php	/^    public function smtpConnect($options = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtpSend	assets/PHPMailer/src/PHPMailer.php	/^    protected function smtpSend($header, $body)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+smtp_conn	assets/PHPMailer/src/SMTP.php	/^    protected $smtp_conn;$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+smtp_transaction_id_patterns	assets/PHPMailer/src/SMTP.php	/^    protected $smtp_transaction_id_patterns = [$/;"	v	class:PHPMailer\\PHPMailer\\SMTP
+squizlabs/php_codesniffer	assets/PHPMailer/composer.json	/^        "squizlabs\/php_codesniffer": "^3.6.0",$/;"	s	object:require-dev
+start	utils/router.php	/^        public static function start(array $path) {$/;"	f	class:Router
+startTLS	assets/PHPMailer/src/SMTP.php	/^    public function startTLS()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+stevenmaguire/oauth2-microsoft	assets/PHPMailer/composer.json	/^        "stevenmaguire\/oauth2-microsoft": "Needed for Microsoft XOAUTH2 authentication",$/;"	s	object:suggest
+stick	pages/views/math/pointsandsticks.html	/^        <button onclick="toggleSticks()" id="stick">Sticks<\/button>$/;"	I
+stripTrailingWSP	assets/PHPMailer/src/PHPMailer.php	/^    public static function stripTrailingWSP($text)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+stuff	pages/views/cv.html	/^                    <div id="stuff">$/;"	I
+stuff	pages/views/cvf.html	/^                    <div id="stuff">$/;"	I
+suggest	assets/PHPMailer/composer.json	/^    "suggest": {$/;"	o
+symfony/polyfill-mbstring	assets/PHPMailer/composer.json	/^        "symfony\/polyfill-mbstring": "To support UTF-8 if the Mbstring PHP extension is not ena/;"	s	object:suggest
+test	assets/PHPMailer/composer.json	/^        "test": ".\/vendor\/bin\/phpunit --no-coverage",$/;"	s	object:scripts
+textLine	assets/PHPMailer/src/PHPMailer.php	/^    public function textLine($value)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+to	assets/PHPMailer/src/PHPMailer.php	/^    protected $to = [];$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+togglePlay	pages/static/js/math/bezier.js	/^function togglePlay () {$/;"	f
+togglePlay	pages/static/js/math/cloth.js	/^function togglePlay () {$/;"	f
+togglePlay	pages/static/js/math/pointysticks.js	/^function togglePlay () {$/;"	f
+togglePlay	pages/static/js/math/rope.js	/^function togglePlay () {$/;"	f
+token	assets/PHPMailer/get_oauth_token.php	/^    $token = $provider->getAccessToken($/;"	v	namespace:PHPMailer\\PHPMailer
+turn	assets/PHPMailer/src/SMTP.php	/^    public function turn()$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+tval	assets/PHPMailer/src/POP3.php	/^    public $tval;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+type	assets/PHPMailer/composer.json	/^            "type": "github"$/;"	s	object:funding.0
+type	assets/PHPMailer/composer.json	/^    "type": "library",$/;"	s
+uniqueid	assets/PHPMailer/src/PHPMailer.php	/^    protected $uniqueid = '';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+update	pages/static/js/math/bezier.js	/^    function update () {$/;"	f	function:window.onload
+update	pages/static/js/math/cloth.js	/^    function update () {$/;"	f	function:window.onload
+update	pages/static/js/math/pointysticks.js	/^	function update() {$/;"	f	function:window.onload
+update	pages/static/js/math/rope.js	/^    function update () {$/;"	f	function:window.onload
+update	pages/static/js/math/script.js	/^    function update () {$/;"	f	function:window.onload
+updatePoints	pages/static/js/math/bezier.js	/^    function updatePoints () {$/;"	f	function:window.onload
+updatePoints	pages/static/js/math/cloth.js	/^    function updatePoints () {$/;"	f	function:window.onload
+updatePoints	pages/static/js/math/pointysticks.js	/^	function updatePoints() {$/;"	f	function:window.onload
+updatePoints	pages/static/js/math/rope.js	/^    function updatePoints () {$/;"	f	function:window.onload
+updatePoints	pages/static/js/math/script.js	/^    function updatePoints () {$/;"	f	function:window.onload
+updateSticks	pages/static/js/math/bezier.js	/^    function updateSticks () {$/;"	f	function:window.onload
+updateSticks	pages/static/js/math/cloth.js	/^    function updateSticks () {$/;"	f	function:window.onload
+updateSticks	pages/static/js/math/pointysticks.js	/^	function updateSticks() {$/;"	f	function:window.onload
+updateSticks	pages/static/js/math/rope.js	/^    function updateSticks () {$/;"	f	function:window.onload
+updateSticks	pages/static/js/math/script.js	/^    function updateSticks () {$/;"	f	function:window.onload
+url	assets/PHPMailer/composer.json	/^            "url": "https:\/\/github.com\/Synchro",$/;"	s	object:funding.0
+url	index.php	/^    $url = $_SERVER['REQUEST_URI'];$/;"	v
+username	assets/PHPMailer/src/POP3.php	/^    public $username;$/;"	v	class:PHPMailer\\PHPMailer\\POP3
+utf8CharBoundary	assets/PHPMailer/src/PHPMailer.php	/^    public function utf8CharBoundary($encodedText, $maxLength)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validateAddress	assets/PHPMailer/src/PHPMailer.php	/^    public static function validateAddress($address, $patternselect = null)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validateEncoding	assets/PHPMailer/src/PHPMailer.php	/^    protected function validateEncoding($encoding)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+validator	assets/PHPMailer/src/PHPMailer.php	/^    public static $validator = 'php';$/;"	v	class:PHPMailer\\PHPMailer\\PHPMailer
+verify	assets/PHPMailer/src/SMTP.php	/^    public function verify($name)$/;"	f	class:PHPMailer\\PHPMailer\\SMTP
+work	pages/views/cv.html	/^                <div id="work">$/;"	I
+work	pages/views/cvf.html	/^                <div id="work">$/;"	I
+wrapText	assets/PHPMailer/src/PHPMailer.php	/^    public function wrapText($message, $length, $qp_mode = false)$/;"	f	class:PHPMailer\\PHPMailer\\PHPMailer
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:0
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:1
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:10
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:11
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:12
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:13
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:14
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:15
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:16
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:17
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:18
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:19
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:2
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:20
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:21
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:22
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:23
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:24
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:25
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:26
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:27
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:3
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:4
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:5
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:6
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:7
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:8
+x	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:9
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:0
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:1
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:10
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:11
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:12
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:13
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:14
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:15
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:16
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:17
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:18
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:19
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:2
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:20
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:21
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:22
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:23
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:24
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:25
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:26
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:27
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:3
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:4
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:5
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:6
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:7
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:8
+y	pages/static/js/math/points.json	/^[{"x": 50,"y": 50,"oldx": 47.87883694853664,"oldy": 36.46819038257285,"pinned": false},{"x": 100/;"	n	object:9
+yoast/phpunit-polyfills	assets/PHPMailer/composer.json	/^        "yoast\/phpunit-polyfills": "^1.0.0"$/;"	s	object:require-dev
+yolk-one	pages/views/coming-soon.html	/^                        <div class="yolk" id="yolk-one">$/;"	I
+yolk-two	pages/views/coming-soon.html	/^                        <div class="yolk" id="yolk-two">$/;"	I
+À Propos	pages/views/cvf.html	/^                    <h2 class="title">À Propos<\/h2>$/;"	i
