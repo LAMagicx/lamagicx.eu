@@ -18,6 +18,8 @@
     Router::add('CVF', get_path('views', 'cvf.html'));
     Router::add('magic', get_path('views', 'magic.php'));
 
+	// added a comment
+
     $scan = scandir(get_path('views', 'math/'));
     foreach($scan as $file) {
         if (!is_dir(get_path('views', "math/$file"))) {
