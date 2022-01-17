@@ -17,6 +17,7 @@
     Router::add('CV', get_path('views', 'cv.html'));
     Router::add('CVF', get_path('views', 'cvf.html'));
     Router::add('magic', get_path('views', 'magic.php'));
+    Router::add('SS', get_path('views', 'ss.php'));
 
 	// added a comment
 

@@ -1,6 +1,16 @@
+body, html {
+	padding: 0;
+	margin: 0;
+}
 #name {
   font-size: 4em;
 }
 h1,h6{
   margin: 0;
+}
+
+#pool-container {
+	width: 100vw;
+	height: 100vh;
+	position: fixed;
 }

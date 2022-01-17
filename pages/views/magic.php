@@ -8,13 +8,19 @@
         <title>LAMagicx - Magic</title>
     </head>
     <body>
-        <div id="name">
-          <div id="msg">
-            <h6>Everyone needs a little.. </h6>
-          </div>
-          <div id="title">
-            <h1>Magic</h1>
-          </div>
-        </div>
+		<div id="pool-container">
+			<canvas id="canvas"></canvas>
+		</div>
+		<div id="main">
+			<div id="name">
+			  <div id="msg">
+				<h6>Everyone needs a little.. </h6>
+			  </div>
+			  <div id="title">
+				<h1>Magic</h1>
+			  </div>
+			</div>
+		</div>
     </body>
+	<script src="pages/static/js/pool.js" charset="utf-8"></script>
 </html>
