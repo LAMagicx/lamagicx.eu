@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Samson Grice</title>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="pages/static/css/personal.css">
+</head>
+<body>
+	<div id="main">
+		<div id="side">
+			<a href="#"><img src="assets/Images/logo.png" alt=""></a>
+		</div>
+		<div id="area" class="text-light">
+			<div id="top">
+				<div class="left">
+					<a href="#" class="text-light">Samson Grice</a>
+				</div>
+				<div class="right">
+					<a href="https://github.com/LAMagicx"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+					<a><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a>
+				</div>
+			</div>
+			<div id="center">
+				<div id="hello-container">
+					<h1 id="hello"></h1>
+				</div>
+				<div id="descipt">
+					<div id="para">
+						<p>I'm Samson AKA LAMagicx,</p>
+						<p>I'm also a curious student studying applied mathematics and computer science.</p>
+					</div>
+				</div>
+			</div>
+			<div id="bottom">
+				<div class="left">
+				</div>
+				<div class="right">
+					<div id="email">
+						<p><i class="material-icons">email</i>Email: </p>
+						<p>samsgrice@gmail.com</p>
+					</div>
+					<div id="phone">
+						<p><i class="material-icons">phone</i>Phone: </p>
+						<p>(+33).6.15.58.39.10</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+<script>
+	let d = new Date();
+	if (d.getHours() >= 18) {
+		document.getElementById("hello").innerText = "Bonsoir";
+	} else {
+		document.getElementById("hello").innerText = "Bonjour";
+	}
+</script>
+</html>

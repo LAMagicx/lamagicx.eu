@@ -8,7 +8,7 @@
     $path = explode('?', $url, 2)[0];
     $path_array = array_slice(explode('/', $path), 1);
 
-    Router::add('', get_path('views', 'coming-soon.html')); // Sans regex ni wildcard
+    Router::add('', get_path('views', 'personal.html')); // Sans regex ni wildcard
     Router::add('functions', get_path('utils', 'ajax-controller.php'));
     Router::add('mail', get_path('views', 'sendmail.php'));
     Router::add('sendmail', get_path('views', 'mailtest.php'));
@@ -25,7 +25,6 @@
     foreach($scan as $file) {
         if (!is_dir(get_path('views', "math/$file"))) {
             Router::add(explode('.', $file, 2)[0], get_path('views', "math/$file"));
-            echo "<script> console.log('" . explode('.', $file, 2)[0] . "');</script>";
         }
     }
 

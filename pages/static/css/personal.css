@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+body {
+	background-color: #1D1F21;
+	padding: 0;
+	margin: 0;
+	font-family: 'Space Mono', monospace;
+	font-size: 2em;
+	color: #E9E9E9;
+}
+
+div {
+	padding: 0;
+	margin: 0;
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	color: #E9E9E9;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+#main {
+	width: 100vw;
+	height: 100vh;
+}
+
+#main > div {
+	transition: width 200ms ease-in;
+}
+
+#side {
+	width: clamp(150px, 20%, 250px);
+	height: 100%;
+	background-color: #E9E9E9;
+}
+
+#side img {
+	width: 100%;
+	height: auto;
+}
+
+#area {
+	width: clamp(calc(100vw - 150px), 80%, calc(100vw - 250px));
+	height: 100%;
+	flex-flow: column nowrap;
+}
+
+#area > div {
+	height: auto;
+	justify-content: space-between;
+}
+
+#top {
+	margin: calc(calc(clamp(150px, 20%, 250px) - 3em) / 2); 
+}
+
+div > a {
+	margin: 0.5em;
+}
+
+.left {
+	justify-content: flex-start;
+}
+
+.right {
+	justify-content: flex-end;
+}
+
+.right > a > i {
+	border-radius: 50%;
+}
+
+.text-dark {
+	color: #1D1F21;
+}
+
+.text-light {
+	color: #E9E9E9;
+}
+
+#center {
+	margin: 2em;
+	flex-flow: column nowrap;
+}
+
+#hello{
+	width: auto;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+#para {
+	flex-flow: column nowrap;
+}
+
+#center p,h1 {
+	margin: 0;
+}
+
+#descipt {
+	margin: 1em;
+}
+
+#para {
+	font-size: 1.5rem;
+}
+
+#bottom {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	margin: 1.1em;
+}
+
+#bottom > div > div {
+	flex-flow: column nowrap;
+	margin: 1em;
+}
+
+#bottom > div > div > p {
+	font-size: 1rem;
+	margin: 0.4em;
+}
+
+p > i {
+	vertical-align: bottom;
+	margin: 0 0.2em;
+}
+
+@media only screen and (max-width: 800px) {
+	#side {
+		width: 0;
+	}
+	#area {
+		width: 100%
+	}
+}
