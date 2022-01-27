@@ -1,0 +1,34 @@
+
+@media only screen and (max-device-width: 800px) {
+	body {
+		font-size: 2em;
+	}
+
+	#center {
+		margin-bottom: 5vh;
+	}
+
+	#side {
+		display: none;
+	}
+
+	#area {
+		margin-left: 0;
+		width: 100vw;
+	}
+
+	#descipt > p {
+		font-size: 0.65em;
+	}
+
+}
+
+
+@media only screen and (max-device-width: 500px) {
+	body {
+		font-size: 3em;
+	}
+	#descipt > p {
+		font-size: 0.6em;
+	}
+}

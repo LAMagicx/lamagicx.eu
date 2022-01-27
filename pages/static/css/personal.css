@@ -7,6 +7,7 @@ body {
 	font-family: 'Space Mono', monospace;
 	font-size: 2em;
 	color: #E9E9E9;
+	width: 99vw;
 }
 
 div {
@@ -25,11 +26,11 @@ h1 {
 }
 
 p {
-	font-size: 1.5rem;
+	font-size: 0.6em;
 }
 
 #main {
-	width: 100vw;
+	width: 99vw;
 	height: 100vh;
 }
 
@@ -78,7 +79,7 @@ p {
 }
 
 div > a {
-	margin: 0.5em;
+	margin: 1rem;
 }
 
 .left {
@@ -102,8 +103,9 @@ div > a {
 }
 
 #center {
-	margin: 0 2em;
+	margin: 0 4rem;
 	flex-flow: column nowrap;
+	margin-bottom: 5vh;
 }
 
 #hello{
@@ -142,12 +144,12 @@ div > a {
 }
 
 #bottom > div > div > p {
-	font-size: 1rem;
+	font-size: 0.6em;
 	margin: 0.4em;
 }
 
 .header-container {
-	margin: 2em;
+	margin: 4rem;
 }
 
 .header {
@@ -173,6 +175,7 @@ p > i {
 	/* needs fix */
 	border-bottom: 3px solid #E9E9E9;
 	cursor: pointer;
+	font-size: 90%;
 }
 
 .link h3:hover {
@@ -205,15 +208,6 @@ h5 {
 }
 
 .time p {
-	font-size: 1.3rem;
+	font-size: 0.55em;
 }
 
-@media only screen and (max-width: 800px) {
-	#side {
-		display: none;
-	}
-	#area {
-		margin-left: 0;
-		width: 100%
-	}
-}
