@@ -21,7 +21,11 @@ a {
 }
 
 h1 {
-	font-size: 4em;
+	font-size: 3em;
+}
+
+p {
+	font-size: 1.5rem;
 }
 
 #main {
@@ -30,27 +34,41 @@ h1 {
 }
 
 #main > div {
-	transition: width 200ms ease-in;
+	transition: all 200ms ease-in;
 }
 
 #side {
 	width: clamp(150px, 20%, 250px);
 	height: 100%;
 	background-color: #E9E9E9;
+	position: fixed;
+	flex-flow: column nowrap;
 }
 
 #side img {
 	width: 100%;
 	height: auto;
+	cursor: pointer;
 }
 
 #area {
+	margin-left: clamp(150px, 20%, 250px);
 	width: clamp(calc(100vw - 150px), 80%, calc(100vw - 250px));
 	height: 100%;
 	flex-flow: column nowrap;
 }
 
-#area > div {
+.page {
+	width: 100%;
+	min-height: 100vh;
+	flex-flow: column nowrap;
+}
+
+#home {
+	justify-content: space-between;
+}
+
+.page > div {
 	height: auto;
 	justify-content: space-between;
 }
@@ -84,13 +102,12 @@ div > a {
 }
 
 #center {
-	margin: 2em;
+	margin: 0 2em;
 	flex-flow: column nowrap;
 }
 
 #hello{
 	width: auto;
-	border-bottom: 1px solid #E9E9E9;
 }
 
 #para {
@@ -102,17 +119,20 @@ div > a {
 }
 
 #descipt {
-	margin: 1em;
+	flex-flow: column nowrap;
+	margin: 0.5em 1em;
+	max-width: min(900px, 80vw);
 }
 
-#para {
-	font-size: 1.5rem;
+#descipt > p {
+	font-size: min(0.7em, 2.25vw);
+}
+
+#descipt > p:not(:last-child) {
+	margin-bottom: 1.5em;
 }
 
 #bottom {
-	position: absolute;
-	right: 0;
-	bottom: 0;
 	margin: 1.1em;
 }
 
@@ -126,16 +146,74 @@ div > a {
 	margin: 0.4em;
 }
 
+.header-container {
+	margin: 2em;
+}
+
+.header {
+	border-bottom: 1px solid #E9E9E9;
+}
+
 p > i {
 	vertical-align: bottom;
 	margin: 0 0.2em;
 }
 
+
+#links {
+	flex-flow: column nowrap;
+	width: 100%;
+}
+
+.link {
+	justify-content: center;
+}
+
+.link h3{
+	/* needs fix */
+	border-bottom: 3px solid #E9E9E9;
+	cursor: pointer;
+}
+
+.link h3:hover {
+	border-bottom: 3px solid #1D1F21;
+}
+
+#timeline {
+	flex-flow: column nowrap;
+}
+
+.time {
+	min-width: 100%;
+	justify-content: space-between
+}
+
+.time:not(:last-child) {
+	margin-bottom: 1em;
+}
+
+.time .right {
+	text-align: end;
+}
+
+h5 {
+	margin: 0;
+}
+
+.time > div {
+	flex-flow: column nowrap;
+}
+
+.time p {
+	font-size: 1.3rem;
+}
+
 @media only screen and (max-width: 800px) {
 	#side {
-		width: 0;
+		display: none;
 	}
 	#area {
+		margin-left: 0;
 		width: 100%
 	}
 }
