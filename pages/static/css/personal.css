@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	background-color: #1D1F21;
-	padding: 0;
-	margin: 0;
 	font-family: 'Space Mono', monospace;
 	font-size: 2em;
 	color: #E9E9E9;
@@ -11,22 +14,12 @@ body {
 }
 
 div {
-	padding: 0;
-	margin: 0;
 	display: flex;
 }
 
 a {
 	text-decoration: none;
 	color: #E9E9E9;
-}
-
-h1 {
-	font-size: 3em;
-}
-
-p {
-	font-size: 0.6em;
 }
 
 #main {
@@ -65,21 +58,10 @@ p {
 	flex-flow: column nowrap;
 }
 
-#home {
-	justify-content: space-between;
-}
-
 .page > div {
 	height: auto;
 	justify-content: space-between;
-}
-
-#top {
-	margin: calc(calc(clamp(150px, 20%, 250px) - 3em) / 2); 
-}
-
-div > a {
-	margin: 1rem;
+	margin-left: 2em;
 }
 
 .left {
@@ -90,10 +72,6 @@ div > a {
 	justify-content: flex-end;
 }
 
-.right > a > i {
-	border-radius: 50%;
-}
-
 .text-dark {
 	color: #1D1F21;
 }
@@ -102,40 +80,47 @@ div > a {
 	color: #E9E9E9;
 }
 
+/* HOME PAGE */
+
+#home {
+	justify-content: space-between;
+}
+
+#top {
+	margin: 1em; 
+	margin-bottom: 0;
+	font-size: 1.2em;
+}
+
+#top div {
+	margin-bottom: 0;
+}
+
 #center {
 	margin: 0 4rem;
 	flex-flow: column nowrap;
-	margin-bottom: 5vh;
+}
+
+#center h1{
+	font-size: 2em;
+}
+
+#center p {
+	font-size: 0.7em;
 }
 
 #hello{
 	width: auto;
 }
 
-#para {
+#paragraph-container {
 	flex-flow: column nowrap;
-}
-
-#center p,h1 {
-	margin: 0;
-}
-
-#descipt {
-	flex-flow: column nowrap;
-	margin: 0.5em 1em;
-	max-width: min(900px, 80vw);
-}
-
-#descipt > p {
-	font-size: min(0.7em, 2.25vw);
-}
-
-#descipt > p:not(:last-child) {
-	margin-bottom: 1.5em;
 }
 
 #bottom {
 	margin: 1.1em;
+	margin-bottom:0;
+	font-size: 0.6em;
 }
 
 #bottom > div > div {
@@ -144,27 +129,43 @@ div > a {
 }
 
 #bottom > div > div > p {
-	font-size: 0.6em;
 	margin: 0.4em;
 }
 
-.header-container {
-	margin: 4rem;
-}
-
-.header {
-	border-bottom: 1px solid #E9E9E9;
-}
-
-p > i {
+.contact-container p > i {
 	vertical-align: bottom;
 	margin: 0 0.2em;
 }
 
+.social-link {
+	margin: 0 0.5em;
+	transition: all 100ms ease-in;
+}
+
+.social-link:hover {
+	transform:  scale(1.05) rotate(5deg);
+}
+
+/* PAGE TITLE */
+
+.header-container {
+	margin: min(2em, 1vh);
+	margin-bottom:0;
+}
+
+.header {
+	border-bottom: 2px solid #E9E9E9;
+	font-size: max(2em, 4vw);
+}
+
+/* LINKS  */
 
 #links {
 	flex-flow: column nowrap;
 	width: 100%;
+	height: calc(100vh - clamp(150px, 20%, 250px));
+	font-size: 85%;
+	justify-content:space-evenly;
 }
 
 .link {
@@ -175,20 +176,56 @@ p > i {
 	/* needs fix */
 	border-bottom: 3px solid #E9E9E9;
 	cursor: pointer;
-	font-size: 90%;
+	transition: all 100ms ease-in;
 }
 
 .link h3:hover {
 	border-bottom: 3px solid #1D1F21;
+	transform: scale(1.05);
 }
 
+/* OTHER PAGES */
+
+.center {
+	margin-left: 3em !important;
+	margin-right: 3em !important;
+}
+
+.descipt {
+	margin-top: 1em;
+	flex-flow: column nowrap;
+	font-size: max(2vh, 1.5vw);
+}
+
+.descipt > p:not(:last-child) {
+	margin-bottom: 0.5em;
+}
+
+/* ABOUT */
+
+
+
+/* WORK */
+
 #timeline {
+	margin-top: 1em;
+	width: 100%;
+	font-size: min(2.9vh, 4.2vw);
 	flex-flow: column nowrap;
 }
 
 .time {
 	min-width: 100%;
 	justify-content: space-between
+}
+
+.time h5 {
+	margin: 0;
+	font-size: 1em;
+}
+
+.time p {
+	font-size: 0.7em;
 }
 
 .time:not(:last-child) {
@@ -199,15 +236,6 @@ p > i {
 	text-align: end;
 }
 
-h5 {
-	margin: 0;
-}
-
 .time > div {
 	flex-flow: column nowrap;
 }
-
-.time p {
-	font-size: 0.55em;
-}
-
