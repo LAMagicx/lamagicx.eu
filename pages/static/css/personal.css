@@ -128,6 +128,16 @@ a {
 	margin: 1em;
 }
 
+#email {
+	flex-flow: column nowrap;
+	margin: 1em;
+}
+
+#phone {
+	flex-flow: column nowrap;
+	margin: 1em;
+}
+
 #bottom > div > div > p {
 	margin: 0.4em;
 }
@@ -238,4 +248,8 @@ a {
 
 .time > div {
 	flex-flow: column nowrap;
+}
+
+.descipt > a{
+	margin: 1em;
 }
