@@ -231,11 +231,11 @@ a {
 
 .time h5 {
 	margin: 0;
-	font-size: 1em;
+	font-size: 0.9em;
 }
 
 .time p {
-	font-size: 0.7em;
+	font-size: 0.6em;
 }
 
 .time:not(:last-child) {
@@ -252,4 +252,12 @@ a {
 
 .descipt > a{
 	margin: 1em;
+}
+
+div > h5 > a {
+	transition: all 200ms ease-in;
+}
+
+div > h5 > a:hover {
+	color: #A9A9A9;
 }
